@@ -1,0 +1,1008 @@
+Symptom,Severity,Additional Symptoms,User Location,Temperature,Humidity,Weather Conditions,Remedy Type,Action Needed,health_alert
+Rash,Severe,Itching,BTM Layout,28,55%,Cloudy,Rest,2,Malaria
+Muscle Pain,Mild,Fatigue,BTM Layout,29,80%,Sunny,Herbal Tea,0,Malaria
+Rash,Moderate,None,Whitefield,33,60%,Sunny,Herbal Tea,1,Dengue
+Muscle Pain,Severe,Chest Pain,Jayanagar,32,80%,Cloudy,Rest,2,None
+Sweating,Moderate,None,Indiranagar,33,55%,Rainy,Cold Compress,1,Flu
+Rash,Mild,Sore Throat,BTM Layout,33,80%,Cloudy,Rest,0,Malaria
+Rash,Mild,None,HSR Layout,33,55%,Cloudy,Aloe Vera Gel,0,None
+Rash,Severe,Sore Throat,Koramangala,28,90%,Humid,Rest,2,Chikungunya
+Fatigue,Moderate,None,Jayanagar,30,75%,Humid,Aloe Vera Gel,1,None
+Sore Throat,Moderate,Chest Pain,HSR Layout,30,75%,Sunny,Herbal Tea,1,None
+Cough,Mild,Chest Pain,HSR Layout,27,80%,Cloudy,Rest,0,None
+Sweating,Moderate,None,BTM Layout,29,55%,Rainy,Aloe Vera Gel,1,Malaria
+Fatigue,Severe,Itching,HSR Layout,32,78%,Humid,Steam Inhalation,2,None
+Rash,Severe,Sore Throat,Malleshwaram,25,78%,Sunny,Rest,2,Viral Fever
+Fatigue,Moderate,Itching,Jayanagar,29,80%,Windy,Cold Compress,1,None
+Fatigue,Severe,Sore Throat,Indiranagar,25,55%,Humid,Rest,2,Flu
+Sore Throat,Moderate,Fatigue,Koramangala,27,55%,Windy,Rest,1,Chikungunya
+Sore Throat,Severe,None,Koramangala,33,80%,Rainy,Aloe Vera Gel,2,Chikungunya
+Muscle Pain,Moderate,Chest Pain,Whitefield,25,85%,Cloudy,Hydration,1,Dengue
+Sore Throat,Severe,Chest Pain,Malleshwaram,29,60%,Rainy,Cold Compress,2,Viral Fever
+Muscle Pain,Mild,Body Ache,Whitefield,29,80%,Humid,Hydration,0,Dengue
+Cough,Mild,None,Koramangala,22,80%,Sunny,Cold Compress,0,Chikungunya
+Fatigue,Severe,Itching,Koramangala,32,75%,Windy,Cold Compress,2,Chikungunya
+Muscle Pain,Moderate,None,Malleshwaram,22,85%,Windy,Nasal Rinse,1,Viral Fever
+Cough,Moderate,Itching,Whitefield,27,70%,Cloudy,Cold Compress,1,Dengue
+Rash,Severe,Chest Pain,Whitefield,30,90%,Windy,Nasal Rinse,2,Dengue
+Fatigue,Severe,Runny Nose,Whitefield,24,90%,Cloudy,Aloe Vera Gel,2,Dengue
+Sore Throat,Mild,None,Jayanagar,27,55%,Humid,Aloe Vera Gel,0,None
+Sweating,Mild,Body Ache,BTM Layout,29,78%,Humid,Rest,0,Malaria
+Sore Throat,Moderate,Itching,Malleshwaram,24,78%,Cloudy,Aloe Vera Gel,1,Viral Fever
+Rash,Severe,None,Indiranagar,25,70%,Windy,Cold Compress,2,Flu
+Sweating,Severe,Body Ache,Whitefield,31,75%,Rainy,Aloe Vera Gel,2,Dengue
+Sore Throat,Moderate,None,Whitefield,22,85%,Windy,Hydration,1,Dengue
+Muscle Pain,Moderate,Runny Nose,Koramangala,29,70%,Humid,Cold Compress,1,Chikungunya
+Rash,Mild,None,Whitefield,25,55%,Windy,Rest,0,Dengue
+Rash,Mild,None,BTM Layout,27,75%,Cloudy,Steam Inhalation,0,Malaria
+Rash,Mild,Fatigue,BTM Layout,29,90%,Humid,Herbal Tea,0,Malaria
+Cough,Severe,Chest Pain,Malleshwaram,25,65%,Sunny,Nasal Rinse,2,Viral Fever
+Rash,Mild,Itching,HSR Layout,24,65%,Humid,Nasal Rinse,0,None
+Rash,Severe,Sore Throat,Koramangala,28,60%,Sunny,Cold Compress,2,Chikungunya
+Rash,Mild,Itching,Indiranagar,22,80%,Windy,Nasal Rinse,0,Flu
+Muscle Pain,Severe,Chest Pain,HSR Layout,32,90%,Rainy,Aloe Vera Gel,2,None
+Rash,Moderate,Chest Pain,Whitefield,29,55%,Sunny,Nasal Rinse,1,Dengue
+Sweating,Moderate,Fatigue,Malleshwaram,33,78%,Rainy,Steam Inhalation,1,Viral Fever
+Sweating,Moderate,Chest Pain,Whitefield,27,75%,Humid,Cold Compress,1,Dengue
+Muscle Pain,Moderate,Runny Nose,Koramangala,30,70%,Cloudy,Hydration,1,Chikungunya
+Cough,Mild,None,Malleshwaram,25,60%,Sunny,Steam Inhalation,0,Viral Fever
+Fatigue,Moderate,Runny Nose,Jayanagar,30,80%,Cloudy,Rest,1,None
+Cough,Mild,None,HSR Layout,29,75%,Sunny,Herbal Tea,0,None
+Rash,Severe,Body Ache,Koramangala,24,90%,Sunny,Steam Inhalation,2,Chikungunya
+Sore Throat,Moderate,Sore Throat,HSR Layout,27,60%,Rainy,Aloe Vera Gel,1,None
+Sweating,Severe,Runny Nose,Koramangala,27,65%,Humid,Cold Compress,2,Chikungunya
+Muscle Pain,Mild,Runny Nose,Koramangala,27,65%,Humid,Rest,0,Chikungunya
+Sweating,Moderate,Fatigue,HSR Layout,24,80%,Rainy,Hydration,1,None
+Fatigue,Severe,Itching,Indiranagar,32,75%,Rainy,Nasal Rinse,2,Flu
+Sweating,Mild,None,Whitefield,33,85%,Rainy,Aloe Vera Gel,0,Dengue
+Muscle Pain,Moderate,Fatigue,Koramangala,33,70%,Humid,Herbal Tea,1,Chikungunya
+Sore Throat,Mild,Body Ache,Koramangala,25,90%,Rainy,Cold Compress,0,Chikungunya
+Fatigue,Mild,Fatigue,Malleshwaram,30,85%,Windy,Cold Compress,0,Viral Fever
+Sweating,Severe,Body Ache,HSR Layout,24,60%,Cloudy,Cold Compress,2,None
+Rash,Moderate,None,Whitefield,28,55%,Rainy,Steam Inhalation,1,Dengue
+Cough,Severe,None,HSR Layout,32,70%,Windy,Hydration,2,None
+Fatigue,Moderate,Fatigue,Malleshwaram,30,70%,Cloudy,Rest,1,Viral Fever
+Rash,Moderate,Itching,Whitefield,29,60%,Cloudy,Hydration,1,Dengue
+Cough,Mild,Body Ache,Jayanagar,32,90%,Humid,Hydration,0,None
+Muscle Pain,Mild,None,Koramangala,27,75%,Sunny,Steam Inhalation,0,Chikungunya
+Fatigue,Severe,Body Ache,Jayanagar,22,75%,Cloudy,Herbal Tea,2,None
+Muscle Pain,Mild,Itching,Indiranagar,31,55%,Rainy,Hydration,0,Flu
+Fatigue,Severe,None,BTM Layout,28,75%,Rainy,Hydration,2,Malaria
+Muscle Pain,Severe,Fatigue,HSR Layout,33,55%,Sunny,Cold Compress,2,None
+Fatigue,Severe,Fatigue,Indiranagar,32,60%,Rainy,Rest,2,Flu
+Rash,Severe,Body Ache,Indiranagar,31,85%,Rainy,Steam Inhalation,2,Flu
+Muscle Pain,Mild,Itching,Koramangala,28,90%,Cloudy,Cold Compress,0,Chikungunya
+Sweating,Mild,None,HSR Layout,25,65%,Windy,Steam Inhalation,0,None
+Sweating,Moderate,None,Koramangala,28,75%,Humid,Nasal Rinse,1,Chikungunya
+Rash,Mild,Sore Throat,Indiranagar,22,65%,Humid,Steam Inhalation,0,Flu
+Fatigue,Moderate,Chest Pain,Indiranagar,30,85%,Humid,Hydration,1,Flu
+Fatigue,Severe,Sore Throat,Koramangala,25,65%,Rainy,Rest,2,Chikungunya
+Sore Throat,Moderate,Itching,Whitefield,22,78%,Sunny,Rest,1,Dengue
+Rash,Mild,Sore Throat,Indiranagar,31,85%,Sunny,Cold Compress,0,Flu
+Rash,Mild,Body Ache,Whitefield,28,90%,Cloudy,Rest,0,Dengue
+Muscle Pain,Moderate,Chest Pain,Koramangala,29,70%,Cloudy,Cold Compress,1,Chikungunya
+Muscle Pain,Mild,Body Ache,Indiranagar,29,75%,Rainy,Rest,0,Flu
+Sore Throat,Severe,Chest Pain,Indiranagar,28,75%,Windy,Steam Inhalation,2,Flu
+Fatigue,Severe,Chest Pain,Jayanagar,22,85%,Humid,Hydration,2,None
+Muscle Pain,Mild,Fatigue,HSR Layout,24,60%,Cloudy,Hydration,0,None
+Rash,Mild,Sore Throat,HSR Layout,27,78%,Cloudy,Aloe Vera Gel,0,None
+Sore Throat,Severe,Fatigue,Indiranagar,32,90%,Cloudy,Rest,2,Flu
+Cough,Severe,Chest Pain,HSR Layout,24,75%,Rainy,Nasal Rinse,2,None
+Rash,Mild,Itching,Koramangala,22,55%,Cloudy,Nasal Rinse,0,Chikungunya
+Muscle Pain,Mild,Runny Nose,BTM Layout,30,80%,Sunny,Cold Compress,0,Malaria
+Rash,Moderate,Chest Pain,BTM Layout,30,60%,Rainy,Steam Inhalation,1,Malaria
+Sweating,Mild,None,Jayanagar,22,65%,Sunny,Steam Inhalation,0,None
+Sweating,Moderate,Itching,Malleshwaram,31,80%,Sunny,Rest,1,Viral Fever
+Cough,Mild,Fatigue,Malleshwaram,27,78%,Rainy,Steam Inhalation,0,Viral Fever
+Fatigue,Moderate,Body Ache,Malleshwaram,29,85%,Windy,Aloe Vera Gel,1,Viral Fever
+Muscle Pain,Moderate,None,Indiranagar,32,75%,Humid,Rest,1,Flu
+Fatigue,Severe,Chest Pain,Koramangala,28,78%,Humid,Cold Compress,2,Chikungunya
+Cough,Mild,Sore Throat,Jayanagar,33,75%,Windy,Cold Compress,0,None
+Sore Throat,Mild,None,BTM Layout,25,60%,Sunny,Hydration,0,Malaria
+Fatigue,Mild,None,BTM Layout,31,90%,Sunny,Hydration,0,Malaria
+Muscle Pain,Moderate,Runny Nose,Indiranagar,31,75%,Sunny,Steam Inhalation,1,Flu
+Muscle Pain,Mild,Itching,Malleshwaram,27,70%,Sunny,Cold Compress,0,Viral Fever
+Sweating,Moderate,Chest Pain,BTM Layout,25,70%,Windy,Herbal Tea,1,Malaria
+Rash,Severe,Sore Throat,Koramangala,27,70%,Windy,Rest,2,Chikungunya
+Fatigue,Mild,Fatigue,Indiranagar,30,85%,Humid,Herbal Tea,0,Flu
+Fatigue,Severe,Itching,Malleshwaram,33,75%,Humid,Cold Compress,2,Viral Fever
+Fatigue,Mild,Runny Nose,Indiranagar,29,65%,Windy,Cold Compress,0,Flu
+Fatigue,Severe,Chest Pain,Koramangala,29,90%,Windy,Hydration,2,Chikungunya
+Fatigue,Mild,Runny Nose,BTM Layout,30,70%,Humid,Nasal Rinse,0,Malaria
+Sore Throat,Mild,Itching,BTM Layout,27,85%,Cloudy,Steam Inhalation,0,Malaria
+Rash,Mild,Fatigue,Malleshwaram,28,90%,Windy,Nasal Rinse,0,Viral Fever
+Cough,Mild,Runny Nose,Koramangala,32,85%,Sunny,Steam Inhalation,0,Chikungunya
+Rash,Moderate,Itching,BTM Layout,22,75%,Sunny,Herbal Tea,1,Malaria
+Fatigue,Moderate,Runny Nose,Whitefield,32,75%,Sunny,Nasal Rinse,1,Dengue
+Rash,Mild,Chest Pain,BTM Layout,27,65%,Cloudy,Herbal Tea,0,Malaria
+Muscle Pain,Mild,Sore Throat,Jayanagar,32,60%,Humid,Aloe Vera Gel,0,None
+Sweating,Severe,None,BTM Layout,25,55%,Humid,Herbal Tea,2,Malaria
+Cough,Moderate,Sore Throat,Koramangala,32,55%,Rainy,Hydration,1,Chikungunya
+Sweating,Moderate,Fatigue,Koramangala,32,90%,Sunny,Cold Compress,1,Chikungunya
+Sweating,Moderate,Sore Throat,Jayanagar,33,70%,Windy,Herbal Tea,1,None
+Cough,Moderate,Sore Throat,Jayanagar,32,55%,Sunny,Cold Compress,1,None
+Sweating,Severe,Fatigue,Whitefield,24,78%,Humid,Hydration,2,Dengue
+Sore Throat,Mild,None,Jayanagar,30,65%,Sunny,Rest,0,None
+Sore Throat,Mild,Runny Nose,Jayanagar,28,60%,Cloudy,Nasal Rinse,0,None
+Sweating,Mild,Chest Pain,Koramangala,32,75%,Sunny,Hydration,0,Chikungunya
+Rash,Mild,Itching,BTM Layout,31,65%,Rainy,Cold Compress,0,Malaria
+Cough,Moderate,Itching,Whitefield,22,60%,Cloudy,Steam Inhalation,1,Dengue
+Fatigue,Mild,Itching,HSR Layout,24,78%,Cloudy,Cold Compress,0,None
+Sore Throat,Severe,Fatigue,Indiranagar,33,70%,Windy,Hydration,2,Flu
+Muscle Pain,Severe,Sore Throat,Indiranagar,25,60%,Humid,Steam Inhalation,2,Flu
+Muscle Pain,Mild,None,HSR Layout,27,70%,Windy,Nasal Rinse,0,None
+Sore Throat,Mild,Itching,BTM Layout,27,60%,Sunny,Hydration,0,Malaria
+Fatigue,Severe,Sore Throat,BTM Layout,33,65%,Windy,Nasal Rinse,2,Malaria
+Rash,Mild,Runny Nose,Indiranagar,31,60%,Humid,Nasal Rinse,0,Flu
+Sweating,Mild,Fatigue,BTM Layout,25,90%,Cloudy,Hydration,0,Malaria
+Muscle Pain,Moderate,Sore Throat,Jayanagar,24,65%,Rainy,Herbal Tea,1,None
+Sore Throat,Moderate,Itching,Indiranagar,27,60%,Humid,Hydration,1,Flu
+Cough,Severe,Chest Pain,Jayanagar,22,85%,Rainy,Nasal Rinse,2,None
+Rash,Moderate,Sore Throat,Malleshwaram,22,75%,Humid,Steam Inhalation,1,Viral Fever
+Sore Throat,Moderate,Runny Nose,Jayanagar,22,75%,Sunny,Steam Inhalation,1,None
+Cough,Moderate,None,Jayanagar,33,60%,Humid,Aloe Vera Gel,1,None
+Sore Throat,Severe,Runny Nose,Koramangala,24,65%,Cloudy,Nasal Rinse,2,Chikungunya
+Fatigue,Moderate,Sore Throat,HSR Layout,32,90%,Humid,Steam Inhalation,1,None
+Sore Throat,Severe,Runny Nose,HSR Layout,25,75%,Humid,Steam Inhalation,2,None
+Muscle Pain,Moderate,Chest Pain,BTM Layout,22,90%,Cloudy,Cold Compress,1,Malaria
+Fatigue,Severe,Runny Nose,BTM Layout,25,85%,Humid,Nasal Rinse,2,Malaria
+Muscle Pain,Severe,Runny Nose,Indiranagar,28,75%,Rainy,Steam Inhalation,2,Flu
+Rash,Severe,Fatigue,Malleshwaram,24,85%,Cloudy,Nasal Rinse,2,Viral Fever
+Sore Throat,Moderate,Runny Nose,Whitefield,22,80%,Rainy,Herbal Tea,1,Dengue
+Sweating,Mild,Fatigue,Koramangala,33,80%,Rainy,Aloe Vera Gel,0,Chikungunya
+Rash,Moderate,Chest Pain,BTM Layout,22,55%,Humid,Rest,1,Malaria
+Rash,Moderate,Sore Throat,Whitefield,33,75%,Cloudy,Cold Compress,1,Dengue
+Fatigue,Severe,Body Ache,HSR Layout,27,80%,Windy,Rest,2,None
+Rash,Moderate,Fatigue,Indiranagar,25,90%,Windy,Aloe Vera Gel,1,Flu
+Sore Throat,Moderate,Fatigue,Malleshwaram,31,70%,Cloudy,Rest,1,Viral Fever
+Rash,Moderate,Runny Nose,Malleshwaram,29,55%,Humid,Nasal Rinse,1,Viral Fever
+Cough,Severe,Itching,HSR Layout,31,55%,Windy,Cold Compress,2,None
+Muscle Pain,Severe,Itching,BTM Layout,27,60%,Sunny,Hydration,2,Malaria
+Rash,Moderate,None,Koramangala,25,55%,Sunny,Aloe Vera Gel,1,Chikungunya
+Sore Throat,Severe,None,HSR Layout,33,55%,Cloudy,Hydration,2,None
+Cough,Moderate,Runny Nose,Whitefield,22,78%,Humid,Steam Inhalation,1,Dengue
+Muscle Pain,Severe,Runny Nose,Whitefield,22,65%,Windy,Rest,2,Dengue
+Fatigue,Moderate,Itching,Whitefield,30,80%,Humid,Herbal Tea,1,Dengue
+Sweating,Mild,None,Koramangala,31,75%,Sunny,Aloe Vera Gel,0,Chikungunya
+Muscle Pain,Mild,Body Ache,BTM Layout,30,85%,Sunny,Herbal Tea,0,Malaria
+Cough,Severe,None,HSR Layout,32,78%,Windy,Steam Inhalation,2,None
+Sore Throat,Moderate,Body Ache,Jayanagar,31,75%,Sunny,Hydration,1,None
+Muscle Pain,Mild,Chest Pain,HSR Layout,24,60%,Cloudy,Hydration,0,None
+Cough,Severe,Sore Throat,HSR Layout,29,70%,Cloudy,Hydration,2,None
+Muscle Pain,Moderate,Fatigue,Malleshwaram,32,78%,Rainy,Rest,1,Viral Fever
+Sore Throat,Moderate,Chest Pain,Indiranagar,32,55%,Windy,Steam Inhalation,1,Flu
+Rash,Moderate,Runny Nose,Malleshwaram,22,65%,Humid,Steam Inhalation,1,Viral Fever
+Muscle Pain,Moderate,Body Ache,HSR Layout,33,78%,Humid,Hydration,1,None
+Fatigue,Severe,Chest Pain,Indiranagar,32,55%,Cloudy,Nasal Rinse,2,Flu
+Rash,Severe,Chest Pain,Indiranagar,22,78%,Humid,Hydration,2,Flu
+Sweating,Mild,Fatigue,HSR Layout,32,90%,Humid,Rest,0,None
+Fatigue,Mild,Fatigue,BTM Layout,31,55%,Rainy,Nasal Rinse,0,Malaria
+Sore Throat,Mild,Fatigue,HSR Layout,31,65%,Cloudy,Hydration,0,None
+Cough,Moderate,Chest Pain,Indiranagar,28,65%,Humid,Aloe Vera Gel,1,Flu
+Rash,Moderate,Body Ache,BTM Layout,33,90%,Sunny,Hydration,1,Malaria
+Cough,Moderate,Itching,Whitefield,24,85%,Cloudy,Herbal Tea,1,Dengue
+Sore Throat,Mild,Itching,Koramangala,29,85%,Cloudy,Aloe Vera Gel,0,Chikungunya
+Cough,Mild,Fatigue,Whitefield,31,80%,Sunny,Hydration,0,Dengue
+Sweating,Moderate,Chest Pain,Jayanagar,29,80%,Cloudy,Nasal Rinse,1,None
+Sweating,Severe,Runny Nose,Jayanagar,31,70%,Humid,Aloe Vera Gel,2,None
+Cough,Severe,Chest Pain,Jayanagar,29,55%,Sunny,Steam Inhalation,2,None
+Fatigue,Severe,Sore Throat,Whitefield,27,78%,Windy,Nasal Rinse,2,Dengue
+Sweating,Moderate,Body Ache,BTM Layout,33,70%,Humid,Cold Compress,1,Malaria
+Cough,Severe,None,HSR Layout,29,65%,Humid,Rest,2,None
+Cough,Mild,None,Indiranagar,27,60%,Sunny,Rest,0,Flu
+Fatigue,Severe,Body Ache,Indiranagar,33,78%,Windy,Steam Inhalation,2,Flu
+Muscle Pain,Moderate,Body Ache,Jayanagar,33,65%,Windy,Hydration,1,None
+Fatigue,Moderate,Runny Nose,Koramangala,24,65%,Humid,Rest,1,Chikungunya
+Sore Throat,Moderate,Body Ache,Malleshwaram,25,90%,Windy,Nasal Rinse,1,Viral Fever
+Sore Throat,Severe,None,Indiranagar,25,60%,Rainy,Nasal Rinse,2,Flu
+Cough,Mild,Itching,Indiranagar,22,85%,Cloudy,Aloe Vera Gel,0,Flu
+Cough,Moderate,Runny Nose,Jayanagar,33,70%,Windy,Hydration,1,None
+Cough,Mild,None,Indiranagar,27,60%,Cloudy,Hydration,0,Flu
+Fatigue,Mild,Chest Pain,Indiranagar,31,80%,Cloudy,Steam Inhalation,0,Flu
+Rash,Moderate,Runny Nose,Koramangala,27,65%,Rainy,Nasal Rinse,1,Chikungunya
+Sore Throat,Moderate,None,Indiranagar,24,60%,Rainy,Hydration,1,Flu
+Cough,Severe,Sore Throat,Koramangala,29,65%,Windy,Aloe Vera Gel,2,Chikungunya
+Rash,Mild,Body Ache,Whitefield,29,60%,Windy,Cold Compress,0,Dengue
+Rash,Mild,Runny Nose,Indiranagar,29,70%,Sunny,Nasal Rinse,0,Flu
+Muscle Pain,Mild,Sore Throat,Whitefield,32,85%,Sunny,Steam Inhalation,0,Dengue
+Cough,Severe,Chest Pain,Whitefield,24,90%,Humid,Aloe Vera Gel,2,Dengue
+Sweating,Mild,None,Malleshwaram,32,85%,Cloudy,Aloe Vera Gel,0,Viral Fever
+Fatigue,Severe,None,BTM Layout,24,78%,Sunny,Hydration,2,Malaria
+Sore Throat,Mild,Body Ache,Jayanagar,29,70%,Windy,Aloe Vera Gel,0,None
+Cough,Moderate,Fatigue,Jayanagar,25,60%,Cloudy,Herbal Tea,1,None
+Sweating,Mild,Body Ache,Whitefield,25,70%,Windy,Steam Inhalation,0,Dengue
+Rash,Mild,Runny Nose,Indiranagar,27,65%,Cloudy,Nasal Rinse,0,Flu
+Muscle Pain,Severe,Runny Nose,HSR Layout,31,60%,Rainy,Cold Compress,2,None
+Cough,Mild,None,Malleshwaram,25,80%,Rainy,Nasal Rinse,0,Viral Fever
+Cough,Mild,Sore Throat,BTM Layout,24,70%,Cloudy,Hydration,0,Malaria
+Muscle Pain,Moderate,Chest Pain,Koramangala,24,85%,Windy,Nasal Rinse,1,Chikungunya
+Muscle Pain,Moderate,Chest Pain,Indiranagar,28,65%,Humid,Hydration,1,Flu
+Sweating,Moderate,Chest Pain,BTM Layout,30,80%,Humid,Nasal Rinse,1,Malaria
+Fatigue,Moderate,Fatigue,Whitefield,27,70%,Cloudy,Herbal Tea,1,Dengue
+Sweating,Moderate,Chest Pain,Malleshwaram,33,90%,Windy,Cold Compress,1,Viral Fever
+Fatigue,Severe,None,Jayanagar,31,80%,Sunny,Nasal Rinse,2,None
+Muscle Pain,Severe,Sore Throat,BTM Layout,31,70%,Windy,Steam Inhalation,2,Malaria
+Fatigue,Mild,Sore Throat,Indiranagar,29,70%,Humid,Rest,0,Flu
+Cough,Mild,Chest Pain,Koramangala,33,60%,Windy,Aloe Vera Gel,0,Chikungunya
+Sweating,Mild,None,Whitefield,31,65%,Humid,Steam Inhalation,0,Dengue
+Rash,Mild,Chest Pain,Jayanagar,30,85%,Sunny,Steam Inhalation,0,None
+Sweating,Mild,Sore Throat,Koramangala,25,55%,Cloudy,Hydration,0,Chikungunya
+Sweating,Severe,None,Whitefield,29,85%,Cloudy,Herbal Tea,2,Dengue
+Sweating,Severe,None,HSR Layout,29,65%,Humid,Herbal Tea,2,None
+Cough,Moderate,Body Ache,HSR Layout,25,60%,Rainy,Steam Inhalation,1,None
+Sweating,Severe,Sore Throat,Malleshwaram,29,90%,Sunny,Nasal Rinse,2,Viral Fever
+Muscle Pain,Severe,Chest Pain,Koramangala,33,80%,Sunny,Aloe Vera Gel,2,Chikungunya
+Rash,Moderate,Itching,Jayanagar,29,70%,Humid,Nasal Rinse,1,None
+Muscle Pain,Severe,Runny Nose,Whitefield,22,60%,Humid,Nasal Rinse,2,Dengue
+Sweating,Severe,Fatigue,HSR Layout,24,60%,Humid,Cold Compress,2,None
+Muscle Pain,Severe,Chest Pain,HSR Layout,33,85%,Rainy,Aloe Vera Gel,2,None
+Cough,Moderate,Chest Pain,BTM Layout,27,85%,Sunny,Hydration,1,Malaria
+Fatigue,Severe,Fatigue,Indiranagar,33,75%,Cloudy,Cold Compress,2,Flu
+Sore Throat,Moderate,Body Ache,Jayanagar,32,80%,Cloudy,Steam Inhalation,1,None
+Fatigue,Moderate,Chest Pain,BTM Layout,24,80%,Rainy,Aloe Vera Gel,1,Malaria
+Muscle Pain,Mild,Body Ache,Indiranagar,22,90%,Sunny,Herbal Tea,0,Flu
+Muscle Pain,Severe,Runny Nose,Whitefield,25,90%,Cloudy,Steam Inhalation,2,Dengue
+Cough,Mild,None,Indiranagar,31,60%,Rainy,Steam Inhalation,0,Flu
+Cough,Severe,Itching,BTM Layout,30,90%,Windy,Cold Compress,2,Malaria
+Sore Throat,Mild,Runny Nose,Whitefield,33,65%,Windy,Cold Compress,0,Dengue
+Cough,Moderate,Runny Nose,BTM Layout,33,65%,Humid,Cold Compress,1,Malaria
+Fatigue,Moderate,Fatigue,Jayanagar,31,80%,Sunny,Aloe Vera Gel,1,None
+Rash,Mild,Body Ache,Whitefield,25,90%,Windy,Hydration,0,Dengue
+Cough,Mild,Runny Nose,Koramangala,32,80%,Rainy,Hydration,0,Chikungunya
+Fatigue,Mild,Chest Pain,HSR Layout,28,60%,Humid,Steam Inhalation,0,None
+Sore Throat,Mild,Fatigue,HSR Layout,30,65%,Humid,Rest,0,None
+Fatigue,Moderate,Chest Pain,HSR Layout,33,90%,Cloudy,Rest,1,None
+Fatigue,Severe,Chest Pain,Malleshwaram,28,90%,Windy,Hydration,2,Viral Fever
+Rash,Mild,Itching,Whitefield,32,65%,Humid,Nasal Rinse,0,Dengue
+Muscle Pain,Moderate,Itching,Indiranagar,31,55%,Windy,Aloe Vera Gel,1,Flu
+Rash,Mild,Itching,Koramangala,22,78%,Cloudy,Herbal Tea,0,Chikungunya
+Fatigue,Severe,Itching,HSR Layout,32,65%,Windy,Aloe Vera Gel,2,None
+Sweating,Mild,Itching,Whitefield,22,75%,Rainy,Nasal Rinse,0,Dengue
+Sweating,Severe,Itching,Indiranagar,30,80%,Rainy,Aloe Vera Gel,2,Flu
+Fatigue,Severe,Fatigue,Jayanagar,24,75%,Windy,Rest,2,None
+Cough,Mild,Itching,Whitefield,22,80%,Humid,Aloe Vera Gel,0,Dengue
+Sweating,Mild,Sore Throat,HSR Layout,31,60%,Cloudy,Nasal Rinse,0,None
+Rash,Mild,Sore Throat,BTM Layout,28,80%,Windy,Herbal Tea,0,Malaria
+Sweating,Severe,Fatigue,Jayanagar,29,60%,Humid,Steam Inhalation,2,None
+Fatigue,Severe,Itching,Indiranagar,25,70%,Rainy,Hydration,2,Flu
+Muscle Pain,Moderate,Chest Pain,Koramangala,27,75%,Humid,Nasal Rinse,1,Chikungunya
+Sweating,Severe,Fatigue,HSR Layout,30,75%,Humid,Herbal Tea,2,None
+Muscle Pain,Mild,Chest Pain,BTM Layout,32,60%,Rainy,Aloe Vera Gel,0,Malaria
+Muscle Pain,Mild,Fatigue,HSR Layout,30,75%,Windy,Aloe Vera Gel,0,None
+Cough,Moderate,Chest Pain,Koramangala,22,80%,Windy,Nasal Rinse,1,Chikungunya
+Sore Throat,Moderate,Sore Throat,HSR Layout,31,60%,Sunny,Herbal Tea,1,None
+Cough,Severe,Chest Pain,HSR Layout,32,90%,Windy,Rest,2,None
+Muscle Pain,Mild,Itching,Koramangala,24,78%,Sunny,Steam Inhalation,0,Chikungunya
+Cough,Moderate,Chest Pain,BTM Layout,22,55%,Cloudy,Herbal Tea,1,Malaria
+Fatigue,Mild,None,Jayanagar,32,60%,Sunny,Cold Compress,0,None
+Muscle Pain,Mild,None,Malleshwaram,27,65%,Windy,Aloe Vera Gel,0,Viral Fever
+Sore Throat,Mild,Sore Throat,BTM Layout,28,70%,Sunny,Steam Inhalation,0,Malaria
+Muscle Pain,Severe,Fatigue,Koramangala,29,78%,Windy,Aloe Vera Gel,2,Chikungunya
+Muscle Pain,Mild,Itching,Malleshwaram,24,60%,Sunny,Nasal Rinse,0,Viral Fever
+Sweating,Mild,Fatigue,Koramangala,28,80%,Rainy,Rest,0,Chikungunya
+Rash,Severe,Fatigue,HSR Layout,22,60%,Sunny,Nasal Rinse,2,None
+Cough,Moderate,Sore Throat,Koramangala,30,90%,Humid,Herbal Tea,1,Chikungunya
+Sweating,Mild,Runny Nose,Koramangala,24,65%,Humid,Steam Inhalation,0,Chikungunya
+Sore Throat,Moderate,None,Jayanagar,31,78%,Cloudy,Cold Compress,1,None
+Rash,Moderate,Body Ache,BTM Layout,24,85%,Windy,Rest,1,Malaria
+Sweating,Severe,Sore Throat,HSR Layout,33,90%,Cloudy,Herbal Tea,2,None
+Cough,Severe,Runny Nose,Indiranagar,33,78%,Cloudy,Rest,2,Flu
+Fatigue,Mild,Sore Throat,Whitefield,27,65%,Sunny,Hydration,0,Dengue
+Sweating,Moderate,Body Ache,BTM Layout,27,78%,Cloudy,Aloe Vera Gel,1,Malaria
+Rash,Severe,Sore Throat,Whitefield,31,60%,Humid,Steam Inhalation,2,Dengue
+Fatigue,Moderate,Sore Throat,Indiranagar,28,70%,Cloudy,Nasal Rinse,1,Flu
+Sore Throat,Moderate,Fatigue,Malleshwaram,25,55%,Sunny,Aloe Vera Gel,1,Viral Fever
+Fatigue,Severe,None,Malleshwaram,32,60%,Cloudy,Herbal Tea,2,Viral Fever
+Cough,Severe,Fatigue,HSR Layout,24,80%,Humid,Rest,2,None
+Fatigue,Moderate,None,Indiranagar,30,60%,Rainy,Hydration,1,Flu
+Cough,Severe,Runny Nose,Jayanagar,24,90%,Sunny,Herbal Tea,2,None
+Cough,Moderate,Chest Pain,BTM Layout,31,90%,Humid,Steam Inhalation,1,Malaria
+Sore Throat,Moderate,Runny Nose,Malleshwaram,25,90%,Windy,Rest,1,Viral Fever
+Rash,Moderate,Sore Throat,Whitefield,32,90%,Sunny,Steam Inhalation,1,Dengue
+Muscle Pain,Severe,Sore Throat,Koramangala,27,65%,Cloudy,Hydration,2,Chikungunya
+Sore Throat,Moderate,Itching,Whitefield,24,85%,Rainy,Nasal Rinse,1,Dengue
+Fatigue,Severe,Sore Throat,BTM Layout,22,60%,Cloudy,Cold Compress,2,Malaria
+Sweating,Severe,Itching,Indiranagar,29,65%,Rainy,Herbal Tea,2,Flu
+Muscle Pain,Mild,Itching,Jayanagar,29,65%,Sunny,Hydration,0,None
+Muscle Pain,Mild,Chest Pain,Indiranagar,33,78%,Sunny,Nasal Rinse,0,Flu
+Fatigue,Severe,Chest Pain,Koramangala,29,90%,Humid,Nasal Rinse,2,Chikungunya
+Fatigue,Mild,Chest Pain,Whitefield,27,75%,Windy,Hydration,0,Dengue
+Sore Throat,Mild,Sore Throat,HSR Layout,32,80%,Windy,Steam Inhalation,0,None
+Muscle Pain,Mild,Fatigue,Indiranagar,33,75%,Windy,Rest,0,Flu
+Sweating,Severe,Itching,Koramangala,25,55%,Rainy,Rest,2,Chikungunya
+Muscle Pain,Mild,Body Ache,HSR Layout,29,75%,Rainy,Hydration,0,None
+Rash,Severe,Sore Throat,HSR Layout,27,55%,Sunny,Rest,2,None
+Cough,Mild,Fatigue,Koramangala,30,70%,Cloudy,Aloe Vera Gel,0,Chikungunya
+Rash,Severe,Runny Nose,Whitefield,25,65%,Rainy,Rest,2,Dengue
+Rash,Severe,Chest Pain,Malleshwaram,29,75%,Cloudy,Rest,2,Viral Fever
+Sore Throat,Severe,Fatigue,HSR Layout,32,78%,Rainy,Herbal Tea,2,None
+Rash,Moderate,Itching,Jayanagar,27,85%,Sunny,Hydration,1,None
+Sore Throat,Severe,Runny Nose,Koramangala,32,55%,Cloudy,Nasal Rinse,2,Chikungunya
+Rash,Mild,Body Ache,BTM Layout,27,70%,Cloudy,Steam Inhalation,0,Malaria
+Sweating,Mild,Sore Throat,Indiranagar,32,75%,Sunny,Herbal Tea,0,Flu
+Muscle Pain,Severe,Itching,Indiranagar,31,70%,Windy,Hydration,2,Flu
+Sore Throat,Severe,Runny Nose,Koramangala,30,80%,Rainy,Steam Inhalation,2,Chikungunya
+Rash,Moderate,Fatigue,BTM Layout,31,75%,Rainy,Rest,1,Malaria
+Cough,Moderate,None,BTM Layout,31,75%,Rainy,Rest,1,Malaria
+Muscle Pain,Moderate,Fatigue,Indiranagar,29,78%,Windy,Cold Compress,1,Flu
+Cough,Mild,Fatigue,BTM Layout,32,85%,Cloudy,Nasal Rinse,0,Malaria
+Muscle Pain,Mild,Runny Nose,Koramangala,33,55%,Windy,Nasal Rinse,0,Chikungunya
+Sore Throat,Moderate,Runny Nose,Koramangala,25,75%,Sunny,Aloe Vera Gel,1,Chikungunya
+Sweating,Mild,Body Ache,Whitefield,22,80%,Windy,Steam Inhalation,0,Dengue
+Muscle Pain,Severe,Runny Nose,Indiranagar,24,70%,Cloudy,Steam Inhalation,2,Flu
+Sore Throat,Severe,Fatigue,Koramangala,27,60%,Cloudy,Steam Inhalation,2,Chikungunya
+Fatigue,Mild,Fatigue,Malleshwaram,33,80%,Cloudy,Cold Compress,0,Viral Fever
+Cough,Mild,Sore Throat,Indiranagar,27,80%,Humid,Nasal Rinse,0,Flu
+Muscle Pain,Severe,Chest Pain,Whitefield,32,65%,Rainy,Cold Compress,2,Dengue
+Cough,Severe,Chest Pain,BTM Layout,31,55%,Sunny,Hydration,2,Malaria
+Cough,Mild,Body Ache,Whitefield,27,55%,Cloudy,Cold Compress,0,Dengue
+Sore Throat,Mild,Fatigue,Whitefield,32,85%,Cloudy,Nasal Rinse,0,Dengue
+Muscle Pain,Moderate,Sore Throat,Whitefield,29,75%,Humid,Hydration,1,Dengue
+Cough,Moderate,Runny Nose,Indiranagar,31,90%,Cloudy,Aloe Vera Gel,1,Flu
+Fatigue,Moderate,Fatigue,Malleshwaram,22,75%,Windy,Rest,1,Viral Fever
+Sweating,Mild,Fatigue,Malleshwaram,29,55%,Rainy,Aloe Vera Gel,0,Viral Fever
+Muscle Pain,Moderate,Chest Pain,Whitefield,27,70%,Rainy,Cold Compress,1,Dengue
+Muscle Pain,Moderate,Runny Nose,Whitefield,31,85%,Windy,Aloe Vera Gel,1,Dengue
+Cough,Moderate,Sore Throat,BTM Layout,28,75%,Rainy,Nasal Rinse,1,Malaria
+Sore Throat,Mild,Fatigue,Jayanagar,28,70%,Sunny,Aloe Vera Gel,0,None
+Sweating,Mild,Chest Pain,Whitefield,32,90%,Sunny,Aloe Vera Gel,0,Dengue
+Sore Throat,Severe,Chest Pain,Indiranagar,22,70%,Humid,Cold Compress,2,Flu
+Rash,Severe,Chest Pain,Koramangala,27,70%,Windy,Steam Inhalation,2,Chikungunya
+Muscle Pain,Moderate,Runny Nose,Indiranagar,22,90%,Sunny,Rest,1,Flu
+Fatigue,Moderate,None,Koramangala,25,55%,Humid,Cold Compress,1,Chikungunya
+Fatigue,Moderate,Body Ache,Koramangala,27,60%,Rainy,Herbal Tea,1,Chikungunya
+Rash,Severe,Runny Nose,HSR Layout,33,85%,Humid,Nasal Rinse,2,None
+Fatigue,Severe,None,Malleshwaram,29,75%,Humid,Hydration,2,Viral Fever
+Sore Throat,Moderate,Itching,Whitefield,27,70%,Humid,Cold Compress,1,Dengue
+Cough,Moderate,Itching,Malleshwaram,30,55%,Rainy,Cold Compress,1,Viral Fever
+Rash,Severe,Fatigue,Malleshwaram,27,75%,Cloudy,Rest,2,Viral Fever
+Sweating,Mild,Body Ache,HSR Layout,22,80%,Rainy,Steam Inhalation,0,None
+Cough,Mild,None,BTM Layout,22,55%,Windy,Hydration,0,Malaria
+Sweating,Moderate,Runny Nose,Koramangala,28,80%,Rainy,Herbal Tea,1,Chikungunya
+Rash,Moderate,Fatigue,Jayanagar,32,80%,Windy,Cold Compress,1,None
+Sweating,Severe,Runny Nose,Malleshwaram,29,70%,Cloudy,Steam Inhalation,2,Viral Fever
+Sore Throat,Severe,Chest Pain,HSR Layout,22,80%,Humid,Aloe Vera Gel,2,None
+Muscle Pain,Severe,Itching,Malleshwaram,24,75%,Rainy,Aloe Vera Gel,2,Viral Fever
+Cough,Mild,Runny Nose,Malleshwaram,29,70%,Humid,Herbal Tea,0,Viral Fever
+Rash,Mild,Sore Throat,Indiranagar,31,85%,Sunny,Aloe Vera Gel,0,Flu
+Rash,Severe,Runny Nose,BTM Layout,27,90%,Humid,Nasal Rinse,2,Malaria
+Sore Throat,Moderate,Itching,Malleshwaram,30,65%,Cloudy,Aloe Vera Gel,1,Viral Fever
+Sore Throat,Mild,Sore Throat,Jayanagar,25,80%,Cloudy,Rest,0,None
+Cough,Severe,Fatigue,Malleshwaram,30,70%,Sunny,Hydration,2,Viral Fever
+Rash,Severe,None,Jayanagar,30,85%,Sunny,Hydration,2,None
+Sore Throat,Severe,Body Ache,Whitefield,33,75%,Humid,Nasal Rinse,2,Dengue
+Rash,Severe,Body Ache,HSR Layout,25,85%,Humid,Steam Inhalation,2,None
+Sweating,Mild,Chest Pain,HSR Layout,30,55%,Sunny,Herbal Tea,0,None
+Muscle Pain,Mild,Fatigue,HSR Layout,22,90%,Windy,Aloe Vera Gel,0,None
+Muscle Pain,Moderate,Chest Pain,Jayanagar,24,80%,Rainy,Hydration,1,None
+Sore Throat,Severe,Body Ache,Koramangala,33,70%,Humid,Herbal Tea,2,Chikungunya
+Cough,Moderate,None,BTM Layout,22,75%,Cloudy,Steam Inhalation,1,Malaria
+Rash,Severe,Fatigue,HSR Layout,24,78%,Sunny,Cold Compress,2,None
+Sweating,Severe,Fatigue,Jayanagar,24,70%,Rainy,Hydration,2,None
+Cough,Severe,None,Whitefield,24,60%,Sunny,Steam Inhalation,2,Dengue
+Sweating,Mild,Body Ache,BTM Layout,30,85%,Humid,Hydration,0,Malaria
+Sweating,Moderate,Chest Pain,Indiranagar,32,85%,Sunny,Rest,1,Flu
+Fatigue,Mild,Itching,Whitefield,22,70%,Rainy,Aloe Vera Gel,0,Dengue
+Rash,Moderate,Chest Pain,Indiranagar,27,65%,Cloudy,Aloe Vera Gel,1,Flu
+Sore Throat,Mild,Itching,Jayanagar,22,85%,Sunny,Rest,0,None
+Fatigue,Moderate,Runny Nose,Indiranagar,24,85%,Rainy,Hydration,1,Flu
+Cough,Severe,Body Ache,HSR Layout,25,80%,Windy,Aloe Vera Gel,2,None
+Rash,Mild,Chest Pain,Jayanagar,32,80%,Humid,Herbal Tea,0,None
+Fatigue,Moderate,Sore Throat,Whitefield,33,60%,Cloudy,Aloe Vera Gel,1,Dengue
+Sore Throat,Severe,Body Ache,BTM Layout,24,75%,Windy,Aloe Vera Gel,2,Malaria
+Sore Throat,Severe,Itching,Whitefield,32,70%,Windy,Cold Compress,2,Dengue
+Fatigue,Moderate,Chest Pain,Koramangala,33,60%,Rainy,Cold Compress,1,Chikungunya
+Sore Throat,Moderate,None,Whitefield,29,55%,Humid,Steam Inhalation,1,Dengue
+Sweating,Severe,Runny Nose,Jayanagar,24,70%,Cloudy,Steam Inhalation,2,None
+Sweating,Mild,Itching,Malleshwaram,30,60%,Rainy,Steam Inhalation,0,Viral Fever
+Muscle Pain,Moderate,Fatigue,HSR Layout,28,85%,Sunny,Nasal Rinse,1,None
+Muscle Pain,Moderate,Body Ache,Whitefield,22,90%,Humid,Steam Inhalation,1,Dengue
+Fatigue,Severe,Fatigue,Koramangala,25,60%,Humid,Cold Compress,2,Chikungunya
+Sore Throat,Moderate,Fatigue,BTM Layout,30,70%,Rainy,Herbal Tea,1,Malaria
+Rash,Moderate,Runny Nose,Koramangala,27,70%,Humid,Rest,1,Chikungunya
+Cough,Mild,Itching,BTM Layout,30,60%,Cloudy,Herbal Tea,0,Malaria
+Rash,Severe,Chest Pain,Whitefield,22,55%,Humid,Hydration,2,Dengue
+Sweating,Mild,None,Malleshwaram,30,90%,Windy,Aloe Vera Gel,0,Viral Fever
+Sweating,Mild,Chest Pain,Jayanagar,27,65%,Windy,Rest,0,None
+Fatigue,Mild,Body Ache,HSR Layout,24,80%,Cloudy,Steam Inhalation,0,None
+Cough,Severe,Body Ache,Koramangala,30,70%,Cloudy,Aloe Vera Gel,2,Chikungunya
+Rash,Severe,Body Ache,Whitefield,32,65%,Rainy,Herbal Tea,2,Dengue
+Rash,Mild,None,Jayanagar,24,60%,Sunny,Aloe Vera Gel,0,None
+Fatigue,Mild,Body Ache,BTM Layout,31,70%,Humid,Nasal Rinse,0,Malaria
+Fatigue,Moderate,Fatigue,Malleshwaram,22,85%,Sunny,Herbal Tea,1,Viral Fever
+Muscle Pain,Severe,Body Ache,Indiranagar,22,90%,Humid,Herbal Tea,2,Flu
+Sore Throat,Severe,Body Ache,Koramangala,32,75%,Cloudy,Nasal Rinse,2,Chikungunya
+Sore Throat,Mild,Sore Throat,Whitefield,27,55%,Rainy,Aloe Vera Gel,0,Dengue
+Rash,Severe,Fatigue,Koramangala,33,90%,Humid,Cold Compress,2,Chikungunya
+Sore Throat,Severe,Sore Throat,Malleshwaram,29,60%,Humid,Hydration,2,Viral Fever
+Fatigue,Moderate,Itching,BTM Layout,28,60%,Rainy,Steam Inhalation,1,Malaria
+Sweating,Severe,Body Ache,Koramangala,27,75%,Sunny,Herbal Tea,2,Chikungunya
+Muscle Pain,Moderate,None,BTM Layout,32,75%,Humid,Hydration,1,Malaria
+Sore Throat,Moderate,Runny Nose,Jayanagar,28,60%,Rainy,Rest,1,None
+Cough,Moderate,Chest Pain,Whitefield,33,70%,Rainy,Steam Inhalation,1,Dengue
+Rash,Severe,None,Whitefield,24,70%,Cloudy,Hydration,2,Dengue
+Rash,Severe,Sore Throat,Malleshwaram,28,85%,Rainy,Rest,2,Viral Fever
+Muscle Pain,Moderate,Body Ache,Koramangala,22,75%,Rainy,Steam Inhalation,1,Chikungunya
+Sore Throat,Severe,Body Ache,Malleshwaram,28,90%,Humid,Herbal Tea,2,Viral Fever
+Fatigue,Mild,Runny Nose,Whitefield,25,65%,Cloudy,Aloe Vera Gel,0,Dengue
+Cough,Severe,Itching,Malleshwaram,31,60%,Rainy,Hydration,2,Viral Fever
+Cough,Mild,Body Ache,Koramangala,29,60%,Cloudy,Rest,0,Chikungunya
+Muscle Pain,Moderate,None,Koramangala,32,80%,Cloudy,Cold Compress,1,Chikungunya
+Cough,Mild,None,Whitefield,32,70%,Rainy,Nasal Rinse,0,Dengue
+Rash,Moderate,Itching,BTM Layout,27,90%,Cloudy,Herbal Tea,1,Malaria
+Rash,Severe,Runny Nose,Koramangala,30,55%,Rainy,Herbal Tea,2,Chikungunya
+Rash,Mild,None,Koramangala,32,90%,Rainy,Steam Inhalation,0,Chikungunya
+Fatigue,Moderate,Chest Pain,Jayanagar,25,60%,Windy,Hydration,1,None
+Muscle Pain,Mild,Body Ache,BTM Layout,24,65%,Windy,Cold Compress,0,Malaria
+Sweating,Mild,Chest Pain,Whitefield,31,80%,Sunny,Steam Inhalation,0,Dengue
+Cough,Mild,Chest Pain,Koramangala,31,70%,Windy,Hydration,0,Chikungunya
+Rash,Moderate,Sore Throat,HSR Layout,30,85%,Humid,Nasal Rinse,1,None
+Rash,Mild,Itching,Malleshwaram,31,78%,Humid,Steam Inhalation,0,Viral Fever
+Sore Throat,Mild,Sore Throat,BTM Layout,27,75%,Rainy,Hydration,0,Malaria
+Cough,Severe,Sore Throat,Malleshwaram,25,75%,Sunny,Cold Compress,2,Viral Fever
+Muscle Pain,Severe,Fatigue,Koramangala,24,78%,Humid,Nasal Rinse,2,Chikungunya
+Fatigue,Moderate,None,HSR Layout,22,90%,Humid,Herbal Tea,1,None
+Fatigue,Moderate,Runny Nose,Indiranagar,33,70%,Windy,Hydration,1,Flu
+Sweating,Mild,Chest Pain,Whitefield,32,70%,Cloudy,Hydration,0,Dengue
+Sore Throat,Mild,Itching,Koramangala,30,70%,Rainy,Nasal Rinse,0,Chikungunya
+Cough,Severe,None,Malleshwaram,30,55%,Humid,Aloe Vera Gel,2,Viral Fever
+Sore Throat,Mild,Body Ache,Jayanagar,31,90%,Sunny,Herbal Tea,0,None
+Rash,Severe,Runny Nose,HSR Layout,22,70%,Cloudy,Herbal Tea,2,None
+Rash,Severe,Sore Throat,Malleshwaram,25,80%,Rainy,Aloe Vera Gel,2,Viral Fever
+Rash,Moderate,Body Ache,BTM Layout,30,70%,Rainy,Steam Inhalation,1,Malaria
+Cough,Mild,Runny Nose,Malleshwaram,24,70%,Rainy,Aloe Vera Gel,0,Viral Fever
+Cough,Mild,Fatigue,HSR Layout,24,75%,Humid,Rest,0,None
+Cough,Mild,None,Indiranagar,24,80%,Sunny,Hydration,0,Flu
+Cough,Moderate,Body Ache,Koramangala,28,60%,Rainy,Aloe Vera Gel,1,Chikungunya
+Cough,Mild,Body Ache,HSR Layout,22,80%,Humid,Hydration,0,None
+Fatigue,Severe,Body Ache,BTM Layout,30,90%,Sunny,Aloe Vera Gel,2,Malaria
+Muscle Pain,Moderate,Fatigue,Malleshwaram,29,78%,Windy,Hydration,1,Viral Fever
+Rash,Mild,None,HSR Layout,22,78%,Sunny,Aloe Vera Gel,0,None
+Sweating,Mild,Fatigue,Whitefield,33,75%,Sunny,Nasal Rinse,0,Dengue
+Fatigue,Mild,Runny Nose,BTM Layout,29,60%,Rainy,Rest,0,Malaria
+Rash,Severe,Itching,Whitefield,29,85%,Windy,Rest,2,Dengue
+Sweating,Moderate,Chest Pain,Indiranagar,25,70%,Cloudy,Aloe Vera Gel,1,Flu
+Sweating,Moderate,Itching,Whitefield,24,80%,Rainy,Aloe Vera Gel,1,Dengue
+Sore Throat,Moderate,Body Ache,Whitefield,24,75%,Windy,Cold Compress,1,Dengue
+Cough,Severe,Fatigue,Koramangala,25,70%,Windy,Hydration,2,Chikungunya
+Muscle Pain,Severe,Body Ache,Whitefield,22,60%,Rainy,Nasal Rinse,2,Dengue
+Sore Throat,Severe,Chest Pain,BTM Layout,30,55%,Sunny,Aloe Vera Gel,2,Malaria
+Cough,Moderate,Fatigue,Whitefield,32,85%,Windy,Steam Inhalation,1,Dengue
+Fatigue,Mild,Body Ache,Malleshwaram,30,85%,Windy,Rest,0,Viral Fever
+Fatigue,Moderate,Fatigue,BTM Layout,25,78%,Cloudy,Cold Compress,1,Malaria
+Fatigue,Moderate,Body Ache,Jayanagar,30,80%,Sunny,Steam Inhalation,1,None
+Muscle Pain,Moderate,Runny Nose,Jayanagar,27,80%,Cloudy,Herbal Tea,1,None
+Sweating,Moderate,Sore Throat,Koramangala,25,55%,Windy,Steam Inhalation,1,Chikungunya
+Sweating,Severe,Itching,Jayanagar,28,90%,Windy,Rest,2,None
+Cough,Severe,Body Ache,Jayanagar,31,90%,Windy,Rest,2,None
+Rash,Severe,Fatigue,Indiranagar,29,90%,Rainy,Nasal Rinse,2,Flu
+Rash,Mild,Runny Nose,Jayanagar,31,55%,Windy,Rest,0,None
+Muscle Pain,Mild,Sore Throat,BTM Layout,30,65%,Rainy,Rest,0,Malaria
+Cough,Mild,Fatigue,Koramangala,27,85%,Sunny,Nasal Rinse,0,Chikungunya
+Sweating,Moderate,None,BTM Layout,30,78%,Sunny,Steam Inhalation,1,Malaria
+Rash,Moderate,Itching,Indiranagar,33,90%,Windy,Rest,1,Flu
+Fatigue,Moderate,Body Ache,BTM Layout,30,75%,Windy,Herbal Tea,1,Malaria
+Cough,Mild,Fatigue,BTM Layout,29,78%,Sunny,Steam Inhalation,0,Malaria
+Muscle Pain,Severe,Sore Throat,Koramangala,30,70%,Windy,Aloe Vera Gel,2,Chikungunya
+Rash,Mild,Fatigue,Malleshwaram,25,78%,Windy,Hydration,0,Viral Fever
+Cough,Moderate,Chest Pain,Whitefield,32,55%,Humid,Cold Compress,1,Dengue
+Fatigue,Severe,Sore Throat,BTM Layout,22,75%,Rainy,Hydration,2,Malaria
+Rash,Moderate,Runny Nose,Koramangala,27,80%,Cloudy,Aloe Vera Gel,1,Chikungunya
+Cough,Severe,Itching,BTM Layout,28,75%,Windy,Herbal Tea,2,Malaria
+Sweating,Moderate,Itching,Malleshwaram,22,60%,Sunny,Aloe Vera Gel,1,Viral Fever
+Cough,Moderate,Body Ache,Whitefield,30,65%,Sunny,Steam Inhalation,1,Dengue
+Sore Throat,Mild,Body Ache,Koramangala,29,78%,Humid,Cold Compress,0,Chikungunya
+Fatigue,Severe,Sore Throat,HSR Layout,33,60%,Sunny,Aloe Vera Gel,2,None
+Fatigue,Mild,Runny Nose,Whitefield,31,85%,Humid,Hydration,0,Dengue
+Fatigue,Moderate,Chest Pain,Koramangala,32,65%,Sunny,Rest,1,Chikungunya
+Sweating,Moderate,Chest Pain,Whitefield,28,80%,Windy,Aloe Vera Gel,1,Dengue
+Cough,Moderate,Fatigue,HSR Layout,30,90%,Windy,Rest,1,None
+Sore Throat,Severe,Chest Pain,Malleshwaram,29,80%,Windy,Herbal Tea,2,Viral Fever
+Sore Throat,Moderate,Fatigue,BTM Layout,30,65%,Cloudy,Rest,1,Malaria
+Cough,Severe,Sore Throat,Whitefield,32,78%,Cloudy,Cold Compress,2,Dengue
+Rash,Severe,Fatigue,BTM Layout,32,65%,Rainy,Cold Compress,2,Malaria
+Cough,Mild,Chest Pain,Malleshwaram,28,60%,Cloudy,Steam Inhalation,0,Viral Fever
+Sweating,Mild,Itching,Whitefield,33,80%,Windy,Rest,0,Dengue
+Rash,Mild,Chest Pain,Jayanagar,22,55%,Rainy,Hydration,0,None
+Rash,Severe,Fatigue,Indiranagar,29,90%,Windy,Herbal Tea,2,Flu
+Fatigue,Moderate,Runny Nose,Whitefield,29,75%,Rainy,Hydration,1,Dengue
+Sore Throat,Moderate,Itching,Whitefield,25,78%,Rainy,Rest,1,Dengue
+Fatigue,Mild,Chest Pain,BTM Layout,27,90%,Rainy,Hydration,0,Malaria
+Rash,Moderate,Fatigue,BTM Layout,22,65%,Windy,Nasal Rinse,1,Malaria
+Cough,Mild,Body Ache,Whitefield,25,90%,Rainy,Herbal Tea,0,Dengue
+Sore Throat,Moderate,Runny Nose,Indiranagar,29,78%,Windy,Nasal Rinse,1,Flu
+Sweating,Severe,Body Ache,Indiranagar,30,78%,Windy,Hydration,2,Flu
+Fatigue,Severe,Chest Pain,HSR Layout,25,85%,Sunny,Hydration,2,None
+Muscle Pain,Severe,Runny Nose,Malleshwaram,28,75%,Windy,Aloe Vera Gel,2,Viral Fever
+Fatigue,Moderate,Body Ache,HSR Layout,24,90%,Humid,Steam Inhalation,1,None
+Muscle Pain,Moderate,Body Ache,Malleshwaram,32,55%,Sunny,Aloe Vera Gel,1,Viral Fever
+Fatigue,Moderate,Fatigue,BTM Layout,31,90%,Windy,Hydration,1,Malaria
+Muscle Pain,Moderate,None,Malleshwaram,31,55%,Windy,Rest,1,Viral Fever
+Sweating,Mild,Sore Throat,Koramangala,33,78%,Windy,Steam Inhalation,0,Chikungunya
+Fatigue,Severe,None,Jayanagar,22,85%,Sunny,Hydration,2,None
+Sweating,Severe,Itching,Koramangala,25,60%,Sunny,Steam Inhalation,2,Chikungunya
+Cough,Moderate,Runny Nose,Jayanagar,27,70%,Cloudy,Hydration,1,None
+Muscle Pain,Moderate,Itching,Jayanagar,22,70%,Windy,Steam Inhalation,1,None
+Sweating,Moderate,Itching,BTM Layout,32,90%,Humid,Rest,1,Malaria
+Sweating,Severe,Itching,Koramangala,28,80%,Rainy,Hydration,2,Chikungunya
+Fatigue,Moderate,Itching,HSR Layout,32,65%,Windy,Steam Inhalation,1,None
+Cough,Moderate,Sore Throat,BTM Layout,22,90%,Windy,Cold Compress,1,Malaria
+Cough,Severe,Body Ache,Malleshwaram,27,90%,Cloudy,Aloe Vera Gel,2,Viral Fever
+Cough,Moderate,Body Ache,Koramangala,32,55%,Windy,Nasal Rinse,1,Chikungunya
+Fatigue,Severe,Sore Throat,BTM Layout,33,60%,Windy,Herbal Tea,2,Malaria
+Rash,Mild,None,Whitefield,25,65%,Rainy,Nasal Rinse,0,Dengue
+Muscle Pain,Mild,Runny Nose,Jayanagar,32,60%,Humid,Steam Inhalation,0,None
+Muscle Pain,Mild,Chest Pain,Koramangala,28,70%,Sunny,Aloe Vera Gel,0,Chikungunya
+Rash,Moderate,None,Jayanagar,25,75%,Cloudy,Herbal Tea,1,None
+Fatigue,Moderate,Fatigue,HSR Layout,27,65%,Humid,Aloe Vera Gel,1,None
+Sweating,Severe,Chest Pain,Koramangala,29,65%,Cloudy,Rest,2,Chikungunya
+Fatigue,Moderate,Fatigue,Whitefield,22,60%,Cloudy,Steam Inhalation,1,Dengue
+Sweating,Severe,Chest Pain,BTM Layout,22,70%,Rainy,Herbal Tea,2,Malaria
+Cough,Mild,Sore Throat,Whitefield,29,75%,Sunny,Rest,0,Dengue
+Muscle Pain,Moderate,Runny Nose,HSR Layout,27,80%,Humid,Aloe Vera Gel,1,None
+Sore Throat,Mild,None,BTM Layout,25,80%,Cloudy,Aloe Vera Gel,0,Malaria
+Fatigue,Severe,Fatigue,Jayanagar,24,75%,Windy,Aloe Vera Gel,2,None
+Rash,Severe,None,Malleshwaram,22,60%,Windy,Rest,2,Viral Fever
+Fatigue,Mild,Body Ache,Indiranagar,33,90%,Cloudy,Herbal Tea,0,Flu
+Rash,Moderate,Runny Nose,Koramangala,24,90%,Windy,Aloe Vera Gel,1,Chikungunya
+Sore Throat,Mild,Runny Nose,BTM Layout,32,60%,Cloudy,Cold Compress,0,Malaria
+Muscle Pain,Severe,None,HSR Layout,22,75%,Humid,Aloe Vera Gel,2,None
+Fatigue,Severe,Chest Pain,Indiranagar,28,65%,Cloudy,Cold Compress,2,Flu
+Sore Throat,Severe,Runny Nose,Whitefield,32,78%,Windy,Rest,2,Dengue
+Sore Throat,Moderate,Sore Throat,Whitefield,24,85%,Sunny,Cold Compress,1,Dengue
+Sore Throat,Moderate,Fatigue,Indiranagar,28,85%,Windy,Herbal Tea,1,Flu
+Cough,Moderate,Fatigue,Koramangala,28,60%,Cloudy,Steam Inhalation,1,Chikungunya
+Sore Throat,Moderate,Runny Nose,Whitefield,28,80%,Windy,Steam Inhalation,1,Dengue
+Cough,Mild,Itching,BTM Layout,27,80%,Humid,Rest,0,Malaria
+Sweating,Mild,Body Ache,HSR Layout,25,80%,Windy,Rest,0,None
+Fatigue,Moderate,Chest Pain,HSR Layout,27,65%,Rainy,Steam Inhalation,1,None
+Sore Throat,Moderate,Chest Pain,Indiranagar,31,85%,Sunny,Hydration,1,Flu
+Sore Throat,Mild,Chest Pain,Whitefield,28,60%,Rainy,Hydration,0,Dengue
+Sweating,Moderate,Chest Pain,Koramangala,27,75%,Rainy,Aloe Vera Gel,1,Chikungunya
+Muscle Pain,Moderate,Body Ache,HSR Layout,33,60%,Cloudy,Herbal Tea,1,None
+Rash,Mild,Itching,Jayanagar,33,55%,Humid,Cold Compress,0,None
+Sweating,Severe,Fatigue,Malleshwaram,30,90%,Cloudy,Aloe Vera Gel,2,Viral Fever
+Sore Throat,Severe,Chest Pain,Indiranagar,28,85%,Humid,Herbal Tea,2,Flu
+Fatigue,Mild,Chest Pain,HSR Layout,25,60%,Cloudy,Rest,0,None
+Muscle Pain,Severe,Fatigue,HSR Layout,29,80%,Humid,Herbal Tea,2,None
+Rash,Severe,Sore Throat,Malleshwaram,22,55%,Rainy,Steam Inhalation,2,Viral Fever
+Muscle Pain,Mild,Chest Pain,HSR Layout,25,85%,Windy,Nasal Rinse,0,None
+Sweating,Mild,Body Ache,Malleshwaram,29,78%,Rainy,Aloe Vera Gel,0,Viral Fever
+Sore Throat,Mild,None,HSR Layout,29,85%,Sunny,Cold Compress,0,None
+Cough,Moderate,Itching,Koramangala,24,80%,Humid,Herbal Tea,1,Chikungunya
+Cough,Severe,Runny Nose,Koramangala,33,80%,Sunny,Rest,2,Chikungunya
+Muscle Pain,Moderate,Runny Nose,HSR Layout,30,90%,Rainy,Steam Inhalation,1,None
+Cough,Moderate,Body Ache,Jayanagar,30,55%,Rainy,Aloe Vera Gel,1,None
+Rash,Severe,None,Whitefield,31,85%,Cloudy,Hydration,2,Dengue
+Sweating,Moderate,Runny Nose,Whitefield,30,90%,Rainy,Rest,1,Dengue
+Fatigue,Moderate,Itching,HSR Layout,27,80%,Windy,Hydration,1,None
+Muscle Pain,Severe,None,Koramangala,22,78%,Rainy,Steam Inhalation,2,Chikungunya
+Muscle Pain,Mild,Runny Nose,Indiranagar,28,60%,Windy,Hydration,0,Flu
+Cough,Mild,Sore Throat,HSR Layout,27,75%,Humid,Hydration,0,None
+Sweating,Moderate,Fatigue,Koramangala,28,60%,Humid,Hydration,1,Chikungunya
+Muscle Pain,Severe,Chest Pain,Koramangala,29,85%,Humid,Herbal Tea,2,Chikungunya
+Rash,Mild,Sore Throat,Malleshwaram,33,60%,Rainy,Steam Inhalation,0,Viral Fever
+Muscle Pain,Moderate,Body Ache,BTM Layout,28,90%,Cloudy,Hydration,1,Malaria
+Sore Throat,Mild,Chest Pain,Whitefield,22,65%,Cloudy,Herbal Tea,0,Dengue
+Sore Throat,Mild,Itching,Jayanagar,27,80%,Windy,Cold Compress,0,None
+Muscle Pain,Moderate,Runny Nose,Whitefield,31,90%,Humid,Nasal Rinse,1,Dengue
+Sweating,Mild,Chest Pain,Malleshwaram,30,60%,Humid,Nasal Rinse,0,Viral Fever
+Muscle Pain,Severe,Chest Pain,BTM Layout,30,55%,Humid,Rest,2,Malaria
+Fatigue,Mild,Fatigue,Malleshwaram,24,75%,Humid,Cold Compress,0,Viral Fever
+Cough,Moderate,None,Indiranagar,22,75%,Sunny,Cold Compress,1,Flu
+Sore Throat,Moderate,Runny Nose,Malleshwaram,31,75%,Windy,Herbal Tea,1,Viral Fever
+Fatigue,Severe,Fatigue,Koramangala,24,60%,Sunny,Steam Inhalation,2,Chikungunya
+Fatigue,Moderate,Fatigue,Indiranagar,22,55%,Rainy,Steam Inhalation,1,Flu
+Cough,Moderate,Fatigue,BTM Layout,30,60%,Rainy,Aloe Vera Gel,1,Malaria
+Fatigue,Severe,Body Ache,Whitefield,27,90%,Sunny,Cold Compress,2,Dengue
+Rash,Mild,Runny Nose,Jayanagar,28,75%,Rainy,Rest,0,None
+Muscle Pain,Severe,None,Whitefield,29,78%,Sunny,Steam Inhalation,2,Dengue
+Cough,Mild,Fatigue,Whitefield,22,90%,Windy,Hydration,0,Dengue
+Sweating,Moderate,Chest Pain,Indiranagar,32,55%,Cloudy,Nasal Rinse,1,Flu
+Muscle Pain,Moderate,None,BTM Layout,22,70%,Cloudy,Nasal Rinse,1,Malaria
+Fatigue,Moderate,Chest Pain,Indiranagar,25,60%,Humid,Nasal Rinse,1,Flu
+Sweating,Mild,Runny Nose,Koramangala,33,78%,Windy,Rest,0,Chikungunya
+Rash,Mild,Chest Pain,Koramangala,28,55%,Rainy,Aloe Vera Gel,0,Chikungunya
+Rash,Moderate,Itching,Jayanagar,27,75%,Sunny,Hydration,1,None
+Sore Throat,Mild,Runny Nose,HSR Layout,30,85%,Windy,Steam Inhalation,0,None
+Muscle Pain,Moderate,Body Ache,HSR Layout,30,78%,Windy,Aloe Vera Gel,1,None
+Muscle Pain,Mild,Body Ache,Jayanagar,32,70%,Cloudy,Nasal Rinse,0,None
+Sweating,Mild,Body Ache,Whitefield,29,75%,Cloudy,Nasal Rinse,0,Dengue
+Cough,Moderate,Body Ache,Malleshwaram,25,55%,Sunny,Rest,1,Viral Fever
+Cough,Severe,Body Ache,HSR Layout,33,70%,Humid,Aloe Vera Gel,2,None
+Sweating,Mild,Chest Pain,Malleshwaram,30,55%,Cloudy,Steam Inhalation,0,Viral Fever
+Sweating,Mild,Runny Nose,Jayanagar,29,60%,Humid,Nasal Rinse,0,None
+Fatigue,Severe,Runny Nose,Koramangala,30,85%,Sunny,Cold Compress,2,Chikungunya
+Muscle Pain,Mild,None,BTM Layout,30,78%,Cloudy,Steam Inhalation,0,Malaria
+Fatigue,Mild,Itching,BTM Layout,33,78%,Windy,Nasal Rinse,0,Malaria
+Fatigue,Moderate,None,Malleshwaram,25,80%,Sunny,Nasal Rinse,1,Viral Fever
+Fatigue,Moderate,Chest Pain,Jayanagar,30,65%,Windy,Nasal Rinse,1,None
+Fatigue,Mild,Chest Pain,Whitefield,31,75%,Windy,Aloe Vera Gel,0,Dengue
+Rash,Severe,Itching,Indiranagar,31,85%,Rainy,Cold Compress,2,Flu
+Muscle Pain,Mild,Sore Throat,HSR Layout,25,70%,Windy,Steam Inhalation,0,None
+Rash,Moderate,Body Ache,Koramangala,29,70%,Windy,Hydration,1,Chikungunya
+Cough,Severe,Sore Throat,Jayanagar,22,55%,Sunny,Aloe Vera Gel,2,None
+Sweating,Severe,Runny Nose,Jayanagar,29,70%,Sunny,Cold Compress,2,None
+Rash,Mild,Body Ache,Malleshwaram,24,85%,Sunny,Rest,0,Viral Fever
+Cough,Severe,Runny Nose,Jayanagar,33,65%,Rainy,Cold Compress,2,None
+Sweating,Moderate,None,Indiranagar,33,65%,Rainy,Nasal Rinse,1,Flu
+Rash,Mild,Fatigue,Indiranagar,28,90%,Cloudy,Cold Compress,0,Flu
+Sore Throat,Moderate,Itching,Whitefield,33,65%,Rainy,Nasal Rinse,1,Dengue
+Sweating,Mild,Body Ache,Indiranagar,28,85%,Sunny,Herbal Tea,0,Flu
+Sore Throat,Severe,Runny Nose,Koramangala,27,65%,Windy,Hydration,2,Chikungunya
+Muscle Pain,Mild,Chest Pain,Indiranagar,27,55%,Sunny,Herbal Tea,0,Flu
+Sore Throat,Severe,Runny Nose,BTM Layout,25,90%,Rainy,Nasal Rinse,2,Malaria
+Sore Throat,Moderate,Runny Nose,HSR Layout,31,90%,Windy,Steam Inhalation,1,None
+Cough,Moderate,None,Whitefield,28,75%,Humid,Nasal Rinse,1,Dengue
+Rash,Severe,Chest Pain,Indiranagar,31,78%,Cloudy,Steam Inhalation,2,Flu
+Cough,Mild,Fatigue,Koramangala,24,65%,Windy,Steam Inhalation,0,Chikungunya
+Sweating,Severe,Body Ache,Indiranagar,29,78%,Cloudy,Herbal Tea,2,Flu
+Fatigue,Moderate,Itching,Koramangala,28,60%,Sunny,Steam Inhalation,1,Chikungunya
+Sore Throat,Severe,Fatigue,Malleshwaram,32,75%,Humid,Rest,2,Viral Fever
+Fatigue,Mild,Body Ache,HSR Layout,25,85%,Humid,Steam Inhalation,0,None
+Muscle Pain,Moderate,Chest Pain,Indiranagar,28,55%,Windy,Hydration,1,Flu
+Cough,Moderate,Sore Throat,Koramangala,22,65%,Humid,Rest,1,Chikungunya
+Sore Throat,Mild,Runny Nose,BTM Layout,30,65%,Cloudy,Herbal Tea,0,Malaria
+Cough,Mild,Sore Throat,BTM Layout,25,85%,Cloudy,Rest,0,Malaria
+Sore Throat,Mild,Body Ache,HSR Layout,25,60%,Humid,Cold Compress,0,None
+Sweating,Mild,Chest Pain,HSR Layout,25,80%,Cloudy,Rest,0,None
+Sore Throat,Mild,Body Ache,Whitefield,31,75%,Rainy,Aloe Vera Gel,0,Dengue
+Rash,Mild,Body Ache,HSR Layout,31,78%,Cloudy,Cold Compress,0,None
+Cough,Moderate,Body Ache,Koramangala,31,65%,Cloudy,Nasal Rinse,1,Chikungunya
+Cough,Moderate,Runny Nose,BTM Layout,25,75%,Sunny,Nasal Rinse,1,Malaria
+Sore Throat,Moderate,Chest Pain,Malleshwaram,29,85%,Cloudy,Nasal Rinse,1,Viral Fever
+Rash,Moderate,Chest Pain,BTM Layout,24,75%,Cloudy,Cold Compress,1,Malaria
+Sweating,Mild,Sore Throat,Whitefield,22,55%,Windy,Hydration,0,Dengue
+Muscle Pain,Mild,Sore Throat,Malleshwaram,30,55%,Humid,Cold Compress,0,Viral Fever
+Cough,Moderate,Body Ache,Indiranagar,24,70%,Sunny,Aloe Vera Gel,1,Flu
+Sweating,Mild,Chest Pain,BTM Layout,22,55%,Humid,Rest,0,Malaria
+Rash,Moderate,Fatigue,Jayanagar,22,75%,Humid,Hydration,1,None
+Rash,Moderate,Chest Pain,Malleshwaram,32,65%,Windy,Rest,1,Viral Fever
+Cough,Severe,Runny Nose,BTM Layout,27,55%,Rainy,Herbal Tea,2,Malaria
+Cough,Mild,Itching,Koramangala,33,80%,Humid,Hydration,0,Chikungunya
+Sweating,Severe,Body Ache,Whitefield,25,55%,Sunny,Aloe Vera Gel,2,Dengue
+Sore Throat,Moderate,Fatigue,Indiranagar,25,70%,Windy,Aloe Vera Gel,1,Flu
+Rash,Severe,None,Koramangala,25,75%,Cloudy,Nasal Rinse,2,Chikungunya
+Cough,Moderate,None,Malleshwaram,31,75%,Cloudy,Rest,1,Viral Fever
+Sore Throat,Moderate,Fatigue,Malleshwaram,32,60%,Humid,Hydration,1,Viral Fever
+Fatigue,Severe,Fatigue,Koramangala,27,65%,Rainy,Cold Compress,2,Chikungunya
+Cough,Mild,Itching,Jayanagar,29,85%,Sunny,Herbal Tea,0,None
+Rash,Moderate,Runny Nose,Malleshwaram,30,85%,Humid,Rest,1,Viral Fever
+Cough,Severe,Chest Pain,BTM Layout,22,60%,Rainy,Rest,2,Malaria
+Fatigue,Severe,None,Koramangala,22,65%,Rainy,Herbal Tea,2,Chikungunya
+Rash,Moderate,Runny Nose,Koramangala,30,80%,Sunny,Nasal Rinse,1,Chikungunya
+Cough,Moderate,Fatigue,Malleshwaram,32,65%,Windy,Herbal Tea,1,Viral Fever
+Fatigue,Moderate,Chest Pain,BTM Layout,25,90%,Rainy,Nasal Rinse,1,Malaria
+Cough,Severe,Itching,Indiranagar,27,90%,Sunny,Nasal Rinse,2,Flu
+Rash,Mild,Runny Nose,Indiranagar,29,75%,Humid,Cold Compress,0,Flu
+Fatigue,Mild,Fatigue,BTM Layout,28,55%,Humid,Aloe Vera Gel,0,Malaria
+Sweating,Severe,None,Indiranagar,25,80%,Humid,Herbal Tea,2,Flu
+Sore Throat,Mild,Fatigue,HSR Layout,31,55%,Windy,Hydration,0,None
+Sweating,Moderate,Fatigue,BTM Layout,30,75%,Humid,Nasal Rinse,1,Malaria
+Cough,Mild,Chest Pain,Whitefield,31,75%,Humid,Cold Compress,0,Dengue
+Sore Throat,Severe,Chest Pain,Malleshwaram,31,80%,Cloudy,Nasal Rinse,2,Viral Fever
+Sweating,Moderate,Chest Pain,Jayanagar,24,70%,Rainy,Aloe Vera Gel,1,None
+Sweating,Severe,Fatigue,Whitefield,28,75%,Windy,Steam Inhalation,2,Dengue
+Sore Throat,Mild,Itching,Jayanagar,32,78%,Humid,Nasal Rinse,0,None
+Rash,Severe,Sore Throat,Indiranagar,24,65%,Rainy,Nasal Rinse,2,Flu
+Rash,Moderate,Itching,HSR Layout,33,70%,Humid,Hydration,1,None
+Fatigue,Mild,Itching,Jayanagar,22,60%,Cloudy,Rest,0,None
+Sweating,Severe,None,Whitefield,33,85%,Cloudy,Herbal Tea,2,Dengue
+Sore Throat,Mild,Chest Pain,Indiranagar,22,78%,Rainy,Cold Compress,0,Flu
+Sore Throat,Mild,Runny Nose,Malleshwaram,22,75%,Humid,Steam Inhalation,0,Viral Fever
+Cough,Severe,Itching,Indiranagar,31,70%,Cloudy,Rest,2,Flu
+Cough,Severe,None,BTM Layout,28,78%,Humid,Steam Inhalation,2,Malaria
+Cough,Mild,Chest Pain,Malleshwaram,28,70%,Windy,Herbal Tea,0,Viral Fever
+Rash,Severe,Sore Throat,Malleshwaram,24,55%,Sunny,Cold Compress,2,Viral Fever
+Muscle Pain,Moderate,Chest Pain,Indiranagar,22,85%,Rainy,Cold Compress,1,Flu
+Rash,Moderate,Fatigue,Malleshwaram,33,78%,Sunny,Aloe Vera Gel,1,Viral Fever
+Muscle Pain,Severe,Sore Throat,Indiranagar,33,78%,Humid,Hydration,2,Flu
+Sore Throat,Moderate,Sore Throat,BTM Layout,31,70%,Cloudy,Nasal Rinse,1,Malaria
+Cough,Severe,None,Malleshwaram,30,75%,Humid,Hydration,2,Viral Fever
+Muscle Pain,Severe,None,Malleshwaram,24,80%,Sunny,Nasal Rinse,2,Viral Fever
+Rash,Mild,Body Ache,Malleshwaram,24,70%,Humid,Hydration,0,Viral Fever
+Cough,Mild,Chest Pain,Indiranagar,30,78%,Rainy,Rest,0,Flu
+Muscle Pain,Severe,Sore Throat,Malleshwaram,33,90%,Cloudy,Herbal Tea,2,Viral Fever
+Muscle Pain,Moderate,None,Malleshwaram,28,90%,Humid,Rest,1,Viral Fever
+Sweating,Mild,Fatigue,BTM Layout,27,55%,Sunny,Nasal Rinse,0,Malaria
+Rash,Severe,Itching,BTM Layout,32,55%,Humid,Aloe Vera Gel,2,Malaria
+Fatigue,Severe,Itching,Indiranagar,22,78%,Windy,Steam Inhalation,2,Flu
+Fatigue,Severe,Itching,Whitefield,27,80%,Humid,Cold Compress,2,Dengue
+Cough,Mild,Itching,BTM Layout,25,70%,Windy,Aloe Vera Gel,0,Malaria
+Sore Throat,Mild,Body Ache,Malleshwaram,30,65%,Humid,Cold Compress,0,Viral Fever
+Sweating,Mild,Runny Nose,Whitefield,27,60%,Rainy,Herbal Tea,0,Dengue
+Muscle Pain,Severe,Runny Nose,Malleshwaram,28,90%,Sunny,Aloe Vera Gel,2,Viral Fever
+Sweating,Mild,Sore Throat,Indiranagar,29,85%,Cloudy,Aloe Vera Gel,0,Flu
+Sore Throat,Severe,Itching,Whitefield,25,90%,Windy,Hydration,2,Dengue
+Sweating,Mild,Chest Pain,HSR Layout,25,85%,Windy,Rest,0,None
+Rash,Moderate,Sore Throat,Whitefield,28,90%,Rainy,Rest,1,Dengue
+Muscle Pain,Moderate,Fatigue,HSR Layout,31,60%,Humid,Cold Compress,1,None
+Fatigue,Moderate,Chest Pain,Jayanagar,28,60%,Sunny,Rest,1,None
+Fatigue,Moderate,Fatigue,Koramangala,29,90%,Sunny,Steam Inhalation,1,Chikungunya
+Sore Throat,Mild,None,Malleshwaram,31,78%,Cloudy,Herbal Tea,0,Viral Fever
+Cough,Mild,Runny Nose,Indiranagar,30,55%,Humid,Steam Inhalation,0,Flu
+Rash,Mild,Itching,Koramangala,22,90%,Sunny,Herbal Tea,0,Chikungunya
+Muscle Pain,Moderate,Body Ache,Indiranagar,27,85%,Rainy,Cold Compress,1,Flu
+Muscle Pain,Mild,Body Ache,HSR Layout,33,75%,Sunny,Nasal Rinse,0,None
+Sore Throat,Severe,None,Jayanagar,28,70%,Humid,Steam Inhalation,2,None
+Muscle Pain,Severe,Fatigue,Whitefield,27,85%,Windy,Hydration,2,Dengue
+Sweating,Severe,Itching,Jayanagar,32,60%,Humid,Aloe Vera Gel,2,None
+Rash,Mild,Itching,HSR Layout,25,80%,Humid,Hydration,0,None
+Rash,Moderate,Chest Pain,HSR Layout,30,90%,Sunny,Nasal Rinse,1,None
+Sweating,Moderate,Chest Pain,HSR Layout,28,75%,Cloudy,Rest,1,None
+Muscle Pain,Severe,Runny Nose,BTM Layout,22,90%,Rainy,Steam Inhalation,2,Malaria
+Cough,Severe,None,Indiranagar,31,70%,Sunny,Cold Compress,2,Flu
+Sore Throat,Moderate,Body Ache,HSR Layout,31,80%,Rainy,Nasal Rinse,1,None
+Sweating,Moderate,Itching,Indiranagar,27,55%,Humid,Aloe Vera Gel,1,Flu
+Sweating,Mild,Sore Throat,Jayanagar,31,85%,Sunny,Herbal Tea,0,None
+Muscle Pain,Severe,Itching,BTM Layout,33,70%,Cloudy,Steam Inhalation,2,Malaria
+Rash,Severe,Fatigue,Jayanagar,28,90%,Cloudy,Steam Inhalation,2,None
+Sweating,Severe,Runny Nose,Indiranagar,30,70%,Humid,Nasal Rinse,2,Flu
+Muscle Pain,Moderate,None,HSR Layout,27,55%,Humid,Herbal Tea,1,None
+Cough,Moderate,Itching,Koramangala,25,70%,Windy,Aloe Vera Gel,1,Chikungunya
+Muscle Pain,Severe,Body Ache,Koramangala,30,65%,Windy,Aloe Vera Gel,2,Chikungunya
+Fatigue,Severe,None,BTM Layout,22,55%,Sunny,Hydration,2,Malaria
+Rash,Moderate,Sore Throat,Koramangala,29,75%,Humid,Aloe Vera Gel,1,Chikungunya
+Fatigue,Moderate,None,Indiranagar,31,70%,Humid,Hydration,1,Flu
+Sweating,Severe,Chest Pain,Malleshwaram,32,75%,Cloudy,Nasal Rinse,2,Viral Fever
+Rash,Severe,Chest Pain,BTM Layout,32,60%,Humid,Herbal Tea,2,Malaria
+Sweating,Moderate,Sore Throat,Malleshwaram,24,80%,Rainy,Rest,1,Viral Fever
+Muscle Pain,Moderate,Sore Throat,Malleshwaram,30,70%,Humid,Nasal Rinse,1,Viral Fever
+Muscle Pain,Severe,Sore Throat,Whitefield,28,70%,Rainy,Rest,2,Dengue
+Cough,Severe,Fatigue,Jayanagar,24,78%,Sunny,Rest,2,None
+Sweating,Severe,Fatigue,Whitefield,33,78%,Humid,Steam Inhalation,2,Dengue
+Sweating,Moderate,Fatigue,Malleshwaram,32,70%,Rainy,Nasal Rinse,1,Viral Fever
+Sore Throat,Moderate,Body Ache,Whitefield,24,85%,Rainy,Cold Compress,1,Dengue
+Sweating,Moderate,None,Jayanagar,22,60%,Sunny,Hydration,1,None
+Rash,Moderate,Body Ache,HSR Layout,32,85%,Humid,Cold Compress,1,None
+Rash,Severe,None,Malleshwaram,27,90%,Cloudy,Hydration,2,Viral Fever
+Rash,Severe,Body Ache,Malleshwaram,31,75%,Sunny,Nasal Rinse,2,Viral Fever
+Sore Throat,Mild,Sore Throat,BTM Layout,29,60%,Cloudy,Steam Inhalation,0,Malaria
+Muscle Pain,Severe,Runny Nose,Whitefield,32,70%,Humid,Steam Inhalation,2,Dengue
+Rash,Severe,None,HSR Layout,27,85%,Humid,Nasal Rinse,2,None
+Cough,Severe,Body Ache,Whitefield,24,78%,Humid,Rest,2,Dengue
+Rash,Severe,Runny Nose,Malleshwaram,27,65%,Rainy,Steam Inhalation,2,Viral Fever
+Sweating,Moderate,Itching,Malleshwaram,33,55%,Sunny,Cold Compress,1,Viral Fever
+Cough,Mild,Chest Pain,Jayanagar,33,55%,Cloudy,Steam Inhalation,0,None
+Cough,Moderate,None,Jayanagar,28,75%,Cloudy,Nasal Rinse,1,None
+Muscle Pain,Moderate,Chest Pain,Koramangala,27,55%,Cloudy,Nasal Rinse,1,Chikungunya
+Sweating,Moderate,Sore Throat,Whitefield,25,65%,Sunny,Herbal Tea,1,Dengue
+Sweating,Moderate,Body Ache,BTM Layout,22,90%,Humid,Cold Compress,1,Malaria
+Rash,Moderate,Chest Pain,Whitefield,27,65%,Cloudy,Cold Compress,1,Dengue
+Sore Throat,Mild,Body Ache,BTM Layout,22,55%,Humid,Aloe Vera Gel,0,Malaria
+Sweating,Moderate,Runny Nose,Jayanagar,27,75%,Windy,Herbal Tea,1,None
+Sore Throat,Moderate,Runny Nose,HSR Layout,29,80%,Humid,Hydration,1,None
+Sweating,Severe,Itching,BTM Layout,30,75%,Humid,Hydration,2,Malaria
+Muscle Pain,Mild,Sore Throat,Koramangala,32,60%,Sunny,Nasal Rinse,0,Chikungunya
+Rash,Severe,Itching,Koramangala,25,65%,Sunny,Rest,2,Chikungunya
+Muscle Pain,Mild,Body Ache,Indiranagar,22,85%,Humid,Herbal Tea,0,Flu
+Sore Throat,Mild,Runny Nose,BTM Layout,22,55%,Cloudy,Hydration,0,Malaria
+Fatigue,Severe,Chest Pain,Koramangala,22,60%,Rainy,Hydration,2,Chikungunya
+Sweating,Mild,Chest Pain,Indiranagar,33,85%,Sunny,Herbal Tea,0,Flu
+Sore Throat,Mild,Chest Pain,Whitefield,22,80%,Sunny,Cold Compress,0,Dengue
+Sore Throat,Moderate,Itching,Koramangala,22,78%,Rainy,Aloe Vera Gel,1,Chikungunya
+Sore Throat,Moderate,None,Jayanagar,28,78%,Windy,Rest,1,None
+Cough,Mild,Chest Pain,Koramangala,30,55%,Rainy,Aloe Vera Gel,0,Chikungunya
+Fatigue,Severe,Chest Pain,HSR Layout,29,75%,Rainy,Herbal Tea,2,None
+Cough,Mild,Sore Throat,Koramangala,24,70%,Sunny,Steam Inhalation,0,Chikungunya
+Sweating,Severe,None,Jayanagar,27,90%,Cloudy,Cold Compress,2,None
+Cough,Severe,Itching,Whitefield,29,75%,Windy,Steam Inhalation,2,Dengue
+Sweating,Mild,Chest Pain,BTM Layout,22,65%,Rainy,Aloe Vera Gel,0,Malaria
+Sore Throat,Moderate,None,Indiranagar,22,75%,Cloudy,Herbal Tea,1,Flu
+Fatigue,Moderate,Runny Nose,Koramangala,27,75%,Windy,Hydration,1,Chikungunya
+Muscle Pain,Moderate,Itching,Indiranagar,31,85%,Cloudy,Rest,1,Flu
+Cough,Mild,Runny Nose,BTM Layout,28,80%,Humid,Steam Inhalation,0,Malaria
+Fatigue,Moderate,Body Ache,Jayanagar,32,55%,Sunny,Nasal Rinse,1,None
+Muscle Pain,Severe,Itching,Jayanagar,30,70%,Humid,Nasal Rinse,2,None
+Muscle Pain,Mild,Body Ache,Jayanagar,30,65%,Cloudy,Rest,0,None
+Fatigue,Severe,Fatigue,HSR Layout,30,90%,Sunny,Hydration,2,None
+Sore Throat,Severe,Sore Throat,Whitefield,33,78%,Humid,Steam Inhalation,2,Dengue
+Cough,Moderate,Sore Throat,Jayanagar,29,75%,Windy,Nasal Rinse,1,None
+Muscle Pain,Severe,Itching,Whitefield,25,75%,Sunny,Herbal Tea,2,Dengue
+Cough,Mild,Fatigue,HSR Layout,28,78%,Sunny,Herbal Tea,0,None
+Sore Throat,Severe,Body Ache,Jayanagar,22,75%,Windy,Aloe Vera Gel,2,None
+Sweating,Mild,Fatigue,Indiranagar,33,55%,Cloudy,Herbal Tea,0,Flu
+Fatigue,Severe,None,BTM Layout,31,80%,Rainy,Aloe Vera Gel,2,Malaria
+Muscle Pain,Severe,Sore Throat,Indiranagar,31,65%,Sunny,Herbal Tea,2,Flu
+Rash,Moderate,Runny Nose,Malleshwaram,31,55%,Rainy,Rest,1,Viral Fever
+Fatigue,Severe,Itching,Whitefield,27,55%,Cloudy,Nasal Rinse,2,Dengue
+Sore Throat,Severe,Runny Nose,Malleshwaram,32,55%,Cloudy,Hydration,2,Viral Fever
+Sweating,Severe,Fatigue,HSR Layout,24,55%,Windy,Rest,2,None
+Sore Throat,Severe,Itching,BTM Layout,24,75%,Humid,Aloe Vera Gel,2,Malaria
+Muscle Pain,Moderate,Itching,Jayanagar,29,70%,Sunny,Steam Inhalation,1,None
+Rash,Moderate,Runny Nose,Whitefield,31,70%,Windy,Steam Inhalation,1,Dengue
+Rash,Severe,Sore Throat,Jayanagar,33,70%,Cloudy,Herbal Tea,2,None
+Muscle Pain,Mild,Fatigue,Indiranagar,30,70%,Cloudy,Cold Compress,0,Flu
+Sore Throat,Severe,Itching,BTM Layout,30,70%,Humid,Steam Inhalation,2,Malaria
+Cough,Severe,Body Ache,Malleshwaram,27,75%,Cloudy,Herbal Tea,2,Viral Fever
+Fatigue,Mild,Fatigue,HSR Layout,25,75%,Cloudy,Aloe Vera Gel,0,None
+Cough,Mild,Runny Nose,Indiranagar,25,80%,Sunny,Steam Inhalation,0,Flu
+Sweating,Moderate,None,Indiranagar,32,85%,Sunny,Nasal Rinse,1,Flu
+Cough,Severe,Sore Throat,Jayanagar,33,75%,Cloudy,Cold Compress,2,None
+Muscle Pain,Severe,Runny Nose,Whitefield,29,55%,Humid,Steam Inhalation,2,Dengue
+Rash,Mild,Runny Nose,Indiranagar,31,60%,Windy,Cold Compress,0,Flu
+Sweating,Moderate,None,Whitefield,25,70%,Humid,Aloe Vera Gel,1,Dengue
+Fatigue,Mild,Sore Throat,Jayanagar,32,80%,Cloudy,Herbal Tea,0,None
+Rash,Mild,Sore Throat,Jayanagar,32,90%,Rainy,Cold Compress,0,None
+Sore Throat,Moderate,Chest Pain,Whitefield,27,80%,Humid,Rest,1,Dengue
+Sore Throat,Mild,Itching,Jayanagar,28,90%,Windy,Nasal Rinse,0,None
+Fatigue,Severe,Chest Pain,Whitefield,32,78%,Humid,Steam Inhalation,2,Dengue
+Rash,Mild,Itching,Indiranagar,28,55%,Cloudy,Nasal Rinse,0,Flu
+Cough,Mild,Sore Throat,Indiranagar,33,90%,Sunny,Hydration,0,Flu
+Muscle Pain,Severe,Fatigue,BTM Layout,29,85%,Rainy,Rest,2,Malaria
+Muscle Pain,Mild,Runny Nose,Koramangala,30,90%,Windy,Rest,0,Chikungunya
+Rash,Mild,Body Ache,BTM Layout,27,65%,Rainy,Nasal Rinse,0,Malaria
+Fatigue,Severe,Fatigue,HSR Layout,22,85%,Humid,Steam Inhalation,2,None
+Sore Throat,Severe,Runny Nose,Malleshwaram,25,80%,Cloudy,Rest,2,Viral Fever
+Rash,Severe,None,Whitefield,22,75%,Cloudy,Steam Inhalation,2,Dengue
+Sore Throat,Severe,Body Ache,Whitefield,22,60%,Sunny,Steam Inhalation,2,Dengue
+Fatigue,Mild,Itching,Indiranagar,22,80%,Humid,Aloe Vera Gel,0,Flu
+Cough,Severe,Chest Pain,BTM Layout,31,78%,Humid,Cold Compress,2,Malaria
+Sore Throat,Moderate,Body Ache,Malleshwaram,32,80%,Humid,Steam Inhalation,1,Viral Fever
+Cough,Severe,Itching,Whitefield,28,78%,Sunny,Rest,2,Dengue
+Fatigue,Mild,Sore Throat,Koramangala,27,75%,Humid,Cold Compress,0,Chikungunya
+Rash,Severe,Body Ache,Koramangala,30,78%,Cloudy,Herbal Tea,2,Chikungunya
+Fatigue,Moderate,Itching,Koramangala,29,75%,Rainy,Rest,1,Chikungunya
+Cough,Severe,Itching,Koramangala,22,65%,Cloudy,Rest,2,Chikungunya
+Sore Throat,Severe,Body Ache,Indiranagar,33,85%,Windy,Nasal Rinse,2,Flu
+Sore Throat,Moderate,Sore Throat,Indiranagar,27,80%,Humid,Steam Inhalation,1,Flu
+Fatigue,Moderate,Runny Nose,Indiranagar,22,70%,Cloudy,Herbal Tea,1,Flu
+Rash,Moderate,Itching,BTM Layout,33,65%,Sunny,Aloe Vera Gel,1,Malaria
+Muscle Pain,Mild,Sore Throat,Malleshwaram,29,60%,Sunny,Cold Compress,0,Viral Fever
+Sweating,Severe,Body Ache,Koramangala,30,78%,Humid,Cold Compress,2,Chikungunya
+Fatigue,Moderate,Chest Pain,HSR Layout,33,55%,Sunny,Nasal Rinse,1,None
+Fatigue,Moderate,None,Whitefield,24,85%,Sunny,Nasal Rinse,1,Dengue
+Sore Throat,Severe,Sore Throat,Jayanagar,27,60%,Windy,Aloe Vera Gel,2,None
+Rash,Severe,None,Koramangala,32,70%,Windy,Hydration,2,Chikungunya
+Sore Throat,Severe,Sore Throat,Whitefield,28,85%,Sunny,Nasal Rinse,2,Dengue
+Sweating,Moderate,Itching,Whitefield,28,65%,Humid,Herbal Tea,1,Dengue
+Fatigue,Mild,Itching,Malleshwaram,28,70%,Rainy,Rest,0,Viral Fever
+Rash,Moderate,Body Ache,Indiranagar,28,65%,Sunny,Herbal Tea,1,Flu
+Sore Throat,Severe,None,Jayanagar,25,70%,Humid,Aloe Vera Gel,2,None
+Rash,Moderate,Fatigue,Malleshwaram,27,70%,Sunny,Herbal Tea,1,Viral Fever
+Cough,Moderate,Chest Pain,HSR Layout,33,75%,Rainy,Rest,1,None
+Muscle Pain,Moderate,Runny Nose,HSR Layout,29,60%,Cloudy,Nasal Rinse,1,None
+Rash,Moderate,Sore Throat,Whitefield,33,78%,Humid,Nasal Rinse,1,Dengue
+Sore Throat,Mild,Chest Pain,Jayanagar,25,60%,Humid,Steam Inhalation,0,None
+Muscle Pain,Severe,Itching,BTM Layout,29,65%,Rainy,Hydration,2,Malaria
+Rash,Mild,Chest Pain,Koramangala,33,55%,Cloudy,Aloe Vera Gel,0,Chikungunya
+Fatigue,Severe,Fatigue,HSR Layout,25,78%,Cloudy,Cold Compress,2,None
+Cough,Severe,Body Ache,Koramangala,33,55%,Humid,Steam Inhalation,2,Chikungunya
+Fatigue,Mild,None,Malleshwaram,32,65%,Rainy,Cold Compress,0,Viral Fever
+Sweating,Moderate,Body Ache,HSR Layout,33,85%,Cloudy,Rest,1,None
+Sweating,Mild,Itching,HSR Layout,31,60%,Rainy,Hydration,0,None
+Sore Throat,Mild,Chest Pain,BTM Layout,25,78%,Humid,Nasal Rinse,0,Malaria
+Sweating,Moderate,Sore Throat,BTM Layout,27,78%,Rainy,Rest,1,Malaria
+Rash,Moderate,None,Koramangala,24,78%,Cloudy,Herbal Tea,1,Chikungunya
+Muscle Pain,Mild,Fatigue,Indiranagar,32,80%,Rainy,Steam Inhalation,0,Flu
+Cough,Mild,Runny Nose,Whitefield,32,90%,Humid,Herbal Tea,0,Dengue
+Sore Throat,Moderate,Runny Nose,HSR Layout,29,75%,Humid,Hydration,1,None
+Sweating,Moderate,Sore Throat,Koramangala,27,78%,Cloudy,Aloe Vera Gel,1,Chikungunya
+Rash,Mild,Itching,BTM Layout,25,70%,Sunny,Steam Inhalation,0,Malaria
+Fatigue,Mild,Body Ache,Jayanagar,22,60%,Rainy,Aloe Vera Gel,0,None
+Rash,Moderate,None,Jayanagar,27,70%,Rainy,Aloe Vera Gel,1,None
+Sore Throat,Moderate,Chest Pain,Jayanagar,30,78%,Humid,Steam Inhalation,1,None
+Muscle Pain,Severe,Body Ache,BTM Layout,22,60%,Humid,Steam Inhalation,2,Malaria
+Muscle Pain,Mild,Itching,Indiranagar,24,78%,Sunny,Aloe Vera Gel,0,Flu
+Sweating,Severe,Itching,Koramangala,32,65%,Windy,Nasal Rinse,2,Chikungunya
+Rash,Moderate,Itching,BTM Layout,30,55%,Windy,Herbal Tea,1,Malaria
+Fatigue,Severe,Sore Throat,Whitefield,28,75%,Cloudy,Nasal Rinse,2,Dengue
+Sore Throat,Severe,Chest Pain,Jayanagar,29,60%,Humid,Aloe Vera Gel,2,None
+Sore Throat,Severe,None,Indiranagar,24,65%,Windy,Aloe Vera Gel,2,Flu
+Sweating,Mild,Chest Pain,HSR Layout,28,80%,Cloudy,Rest,0,None
+Rash,Mild,Itching,Malleshwaram,30,55%,Humid,Aloe Vera Gel,0,Viral Fever
+Muscle Pain,Mild,Sore Throat,Whitefield,29,85%,Cloudy,Herbal Tea,0,Dengue
+Cough,Severe,Chest Pain,Whitefield,29,75%,Sunny,Hydration,2,Dengue
+Sweating,Severe,Sore Throat,Jayanagar,22,60%,Cloudy,Hydration,2,None
+Fatigue,Severe,Fatigue,Jayanagar,33,90%,Humid,Herbal Tea,2,None
+Muscle Pain,Mild,None,BTM Layout,25,65%,Cloudy,Steam Inhalation,0,Malaria
+Cough,Moderate,Itching,Koramangala,31,65%,Cloudy,Rest,1,Chikungunya
+Rash,Moderate,Sore Throat,HSR Layout,22,65%,Windy,Herbal Tea,1,None
+Muscle Pain,Moderate,Body Ache,Indiranagar,29,85%,Sunny,Aloe Vera Gel,1,Flu
+Fatigue,Moderate,Sore Throat,Koramangala,30,90%,Windy,Aloe Vera Gel,1,Chikungunya
+Sore Throat,Severe,Body Ache,BTM Layout,24,65%,Sunny,Rest,2,Malaria
+Rash,Moderate,Body Ache,HSR Layout,31,90%,Sunny,Aloe Vera Gel,1,None
+Rash,Severe,Runny Nose,Koramangala,29,60%,Windy,Nasal Rinse,2,Chikungunya
+Sweating,Severe,Chest Pain,Koramangala,33,85%,Windy,Nasal Rinse,2,Chikungunya
+Sweating,Severe,Fatigue,Whitefield,33,65%,Rainy,Nasal Rinse,2,Dengue
+Cough,Moderate,None,HSR Layout,27,80%,Humid,Cold Compress,1,None
+Rash,Moderate,Sore Throat,Koramangala,29,65%,Windy,Hydration,1,Chikungunya
+Cough,Severe,Itching,Whitefield,29,60%,Humid,Cold Compress,2,Dengue
+Sweating,Severe,Body Ache,Indiranagar,32,90%,Rainy,Steam Inhalation,2,Flu
+Muscle Pain,Mild,Body Ache,Jayanagar,29,85%,Sunny,Steam Inhalation,0,None
+Muscle Pain,Moderate,Chest Pain,BTM Layout,25,78%,Rainy,Aloe Vera Gel,1,Malaria
+Fatigue,Moderate,Body Ache,Whitefield,25,65%,Cloudy,Nasal Rinse,1,Dengue
+Sweating,Mild,Itching,Indiranagar,33,80%,Humid,Aloe Vera Gel,0,Flu
+Sweating,Severe,Sore Throat,Malleshwaram,32,60%,Cloudy,Steam Inhalation,2,Viral Fever
+Muscle Pain,Mild,Sore Throat,Indiranagar,28,78%,Cloudy,Aloe Vera Gel,0,Flu
+Fatigue,Moderate,Body Ache,Jayanagar,31,78%,Windy,Nasal Rinse,1,None
+Fatigue,Moderate,Runny Nose,Jayanagar,24,85%,Rainy,Steam Inhalation,1,None
+Cough,Mild,Runny Nose,HSR Layout,24,65%,Windy,Aloe Vera Gel,0,None
+Fatigue,Severe,Body Ache,Koramangala,24,70%,Sunny,Nasal Rinse,2,Chikungunya
+Sweating,Mild,Chest Pain,Koramangala,33,70%,Cloudy,Steam Inhalation,0,Chikungunya
+Sore Throat,Mild,Fatigue,HSR Layout,25,70%,Rainy,Rest,0,None
+Sweating,Mild,Runny Nose,Whitefield,33,90%,Sunny,Nasal Rinse,0,Dengue
+Cough,Severe,Chest Pain,Malleshwaram,22,80%,Rainy,Nasal Rinse,2,Viral Fever
+Muscle Pain,Severe,Chest Pain,HSR Layout,27,85%,Sunny,Hydration,2,None
+Rash,Moderate,Runny Nose,HSR Layout,27,75%,Humid,Rest,1,None
+Sore Throat,Severe,None,BTM Layout,24,55%,Cloudy,Cold Compress,2,Malaria
+Cough,Moderate,Runny Nose,HSR Layout,33,75%,Windy,Hydration,1,None
+Cough,Severe,Chest Pain,Koramangala,25,55%,Rainy,Steam Inhalation,2,Chikungunya
+Rash,Severe,None,Jayanagar,27,85%,Cloudy,Aloe Vera Gel,2,None
+Cough,Severe,Itching,BTM Layout,30,85%,Rainy,Rest,2,Malaria
+Muscle Pain,Moderate,Runny Nose,Jayanagar,29,60%,Windy,Rest,1,None
+Cough,Mild,None,Koramangala,29,80%,Sunny,Hydration,0,Chikungunya
+Sore Throat,Severe,Fatigue,Indiranagar,27,55%,Windy,Steam Inhalation,2,Flu
+Muscle Pain,Mild,Runny Nose,BTM Layout,31,75%,Humid,Nasal Rinse,0,Malaria
+Sweating,Mild,None,BTM Layout,30,85%,Humid,Nasal Rinse,0,Malaria
+Sore Throat,Severe,Chest Pain,Malleshwaram,32,80%,Sunny,Herbal Tea,2,Viral Fever
+Sweating,Mild,Sore Throat,HSR Layout,31,55%,Cloudy,Hydration,0,None
+Rash,Severe,Sore Throat,Whitefield,31,60%,Windy,Steam Inhalation,2,Dengue
+Cough,Severe,None,Malleshwaram,30,85%,Rainy,Herbal Tea,2,Viral Fever
+Rash,Moderate,None,Whitefield,22,70%,Rainy,Rest,1,Dengue
+Cough,Moderate,Body Ache,Indiranagar,30,90%,Cloudy,Rest,1,Flu
+Sweating,Mild,Itching,Malleshwaram,28,75%,Windy,Rest,0,Viral Fever
+Fatigue,Moderate,Itching,BTM Layout,27,60%,Rainy,Cold Compress,1,Malaria
+Fatigue,Severe,Body Ache,Jayanagar,32,75%,Cloudy,Steam Inhalation,2,None
+Muscle Pain,Severe,Body Ache,HSR Layout,30,60%,Sunny,Aloe Vera Gel,2,None
+Fatigue,Mild,Chest Pain,Koramangala,25,55%,Rainy,Steam Inhalation,0,Chikungunya
+Sore Throat,Mild,Fatigue,Whitefield,32,60%,Humid,Nasal Rinse,0,Dengue
+Muscle Pain,Moderate,Body Ache,Malleshwaram,29,65%,Rainy,Rest,1,Viral Fever
+Cough,Moderate,None,Whitefield,25,90%,Sunny,Cold Compress,1,Dengue
+Rash,Moderate,Body Ache,Whitefield,28,80%,Cloudy,Hydration,1,Dengue
+Sore Throat,Moderate,None,Jayanagar,29,90%,Cloudy,Nasal Rinse,1,None
+Rash,Moderate,Sore Throat,Malleshwaram,24,65%,Humid,Aloe Vera Gel,1,Viral Fever
+Rash,Severe,Itching,Whitefield,33,85%,Cloudy,Rest,2,Dengue
+Sweating,Mild,None,Malleshwaram,31,75%,Rainy,Steam Inhalation,0,Viral Fever
+Cough,Severe,Itching,Whitefield,24,75%,Sunny,Nasal Rinse,2,Dengue
+Muscle Pain,Moderate,Fatigue,Jayanagar,30,80%,Cloudy,Aloe Vera Gel,1,None
+Rash,Moderate,Runny Nose,Jayanagar,28,55%,Rainy,Rest,1,None
+Sore Throat,Moderate,Chest Pain,Jayanagar,24,60%,Rainy,Rest,1,None
+Muscle Pain,Moderate,Itching,Whitefield,28,78%,Windy,Aloe Vera Gel,1,Dengue
+Rash,Severe,Runny Nose,BTM Layout,29,65%,Windy,Herbal Tea,2,Malaria
+Sweating,Moderate,Sore Throat,Malleshwaram,22,85%,Sunny,Hydration,1,Viral Fever
+Rash,Severe,Sore Throat,Koramangala,31,75%,Sunny,Herbal Tea,2,Chikungunya
+Muscle Pain,Mild,Itching,Whitefield,30,78%,Sunny,Cold Compress,0,Dengue
+Sore Throat,Mild,Sore Throat,Indiranagar,24,60%,Windy,Hydration,0,Flu
+Muscle Pain,Moderate,Fatigue,BTM Layout,30,78%,Windy,Rest,1,Malaria
+Cough,Mild,Sore Throat,Whitefield,25,78%,Humid,Nasal Rinse,0,Dengue
+Fatigue,Mild,Runny Nose,Jayanagar,25,78%,Humid,Aloe Vera Gel,0,None
+Fatigue,Mild,Fatigue,Whitefield,27,70%,Rainy,Herbal Tea,0,Dengue
+Rash,Moderate,Fatigue,Indiranagar,22,85%,Sunny,Rest,1,Flu
+Sweating,Mild,Itching,Koramangala,33,60%,Cloudy,Steam Inhalation,0,Chikungunya
+Muscle Pain,Mild,Runny Nose,Jayanagar,24,90%,Windy,Steam Inhalation,0,None
+Rash,Severe,None,Indiranagar,24,80%,Rainy,Rest,2,Flu
+Rash,Severe,Body Ache,Malleshwaram,28,75%,Humid,Herbal Tea,2,Viral Fever
+Fatigue,Mild,None,Malleshwaram,29,55%,Cloudy,Cold Compress,0,Viral Fever
+Sweating,Moderate,Fatigue,Indiranagar,27,78%,Windy,Nasal Rinse,1,Flu
+Sore Throat,Moderate,Chest Pain,Whitefield,27,65%,Rainy,Cold Compress,1,Dengue
+Muscle Pain,Severe,Chest Pain,Malleshwaram,33,80%,Sunny,Rest,2,Viral Fever
+Cough,Severe,Runny Nose,HSR Layout,27,65%,Rainy,Rest,2,None
+Cough,Moderate,Runny Nose,Jayanagar,24,75%,Rainy,Aloe Vera Gel,1,None
+Fatigue,Mild,None,HSR Layout,22,78%,Cloudy,Nasal Rinse,0,None
+Muscle Pain,Mild,Fatigue,HSR Layout,27,65%,Rainy,Hydration,0,None
+Muscle Pain,Mild,Runny Nose,Jayanagar,28,90%,Windy,Rest,0,None
+Sore Throat,Moderate,Fatigue,Koramangala,25,78%,Humid,Aloe Vera Gel,1,Chikungunya
+Muscle Pain,Mild,Body Ache,BTM Layout,28,60%,Windy,Aloe Vera Gel,0,Malaria
+Cough,Mild,None,Koramangala,29,90%,Humid,Aloe Vera Gel,0,Chikungunya
+Sweating,Severe,Sore Throat,BTM Layout,24,55%,Sunny,Herbal Tea,2,Malaria
+Fatigue,Mild,Fatigue,Whitefield,31,75%,Cloudy,Steam Inhalation,0,Dengue
+Muscle Pain,Mild,Itching,Indiranagar,29,80%,Cloudy,Herbal Tea,0,Flu
+Sore Throat,Severe,Itching,BTM Layout,31,85%,Windy,Hydration,2,Malaria
+Muscle Pain,Severe,Itching,Indiranagar,24,90%,Humid,Aloe Vera Gel,2,Flu
+Muscle Pain,Moderate,Sore Throat,Koramangala,22,65%,Rainy,Nasal Rinse,1,Chikungunya
+Rash,Moderate,Chest Pain,BTM Layout,33,75%,Sunny,Aloe Vera Gel,1,Malaria
+Sore Throat,Moderate,None,HSR Layout,27,65%,Windy,Cold Compress,1,None
+Fatigue,Severe,Chest Pain,Jayanagar,31,55%,Cloudy,Cold Compress,2,None
+Sweating,Mild,None,BTM Layout,31,65%,Rainy,Steam Inhalation,0,Malaria
+Fatigue,Moderate,Itching,HSR Layout,28,90%,Humid,Rest,1,None
+Fatigue,Severe,Runny Nose,Indiranagar,25,85%,Rainy,Nasal Rinse,2,Flu
+Fatigue,Mild,Sore Throat,Whitefield,32,75%,Windy,Aloe Vera Gel,0,Dengue
+Sweating,Moderate,None,HSR Layout,24,65%,Humid,Cold Compress,1,None
+,,,BTM Layout,,,,,,
+,,,Whitefield,,,,,,
+,,,Jayanagar,,,,,,
+,,,Indiranagar,,,,,,
+,,,HSR Layout,,,,,,
+,,,Koramangala,,,,,,
+,,,Malleshwaram,,,,,,
