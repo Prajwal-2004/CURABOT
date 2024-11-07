@@ -999,10 +999,4 @@ Fatigue,Moderate,Itching,HSR Layout,28,90%,Humid,Rest,1,None
 Fatigue,Severe,Runny Nose,Indiranagar,25,85%,Rainy,Nasal Rinse,2,Flu
 Fatigue,Mild,Sore Throat,Whitefield,32,75%,Windy,Aloe Vera Gel,0,Dengue
 Sweating,Moderate,None,HSR Layout,24,65%,Humid,Cold Compress,1,None
-,,,BTM Layout,,,,,,
-,,,Whitefield,,,,,,
-,,,Jayanagar,,,,,,
-,,,Indiranagar,,,,,,
-,,,HSR Layout,,,,,,
-,,,Koramangala,,,,,,
-,,,Malleshwaram,,,,,,
+
